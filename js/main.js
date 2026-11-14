@@ -31,12 +31,15 @@ class App {
   }
 
   async boot() {
-    const [colors, lang] = await Promise.all([
+    const [colors, lang, manifest] = await Promise.all([
       fetch('assets/data/color_table.txt').then(r => r.text()),
       fetch('assets/data/English.txt').then(r => r.text()),
+      fetch('assets/manifest.json').then(r => r.json()).catch(() => null),
     ]);
     this.colors = parseColorTable(colors);
     this.lang = parseLanguage(lang);
+    this.manifest = manifest; // actual asset paths; GitHub Pages is case-sensitive
+    this.manifestMap = manifest ? new Map(manifest.map(p => [p.toLowerCase(), p])) : null;
     this.ui.mainMenu();
   }
 
@@ -48,6 +51,11 @@ class App {
     p = p.replace(/^data\/names\//, 'assets/data/names/');
     p = p.replace(/^data\//, 'assets/data/');
     if (!/\.txt$/i.test(p)) p += '.txt';
+    // resolve to actual on-disk case (GitHub Pages is case-sensitive)
+    if (this.manifestMap) {
+      const real = this.manifestMap.get(p);
+      if (real) p = real;
+    }
     return fetch(p).then(r => { if (!r.ok) throw new Error(p + ' ' + r.status); return r.text(); });
   }
 
