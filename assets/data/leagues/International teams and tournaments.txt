@@ -1,0 +1,1588 @@
+#
+#
+#  Countries
+#
+#
+#
+#  EUROPA
+#
+! AdditionalCountry "Belgium"
+! TempNames "data/names/Belgium_1st.txt" "data/names/Belgium_2nd.txt"
++ reputation 14
+Club Brugga KV
+RSC Anderlacht
+KRC Gank
+Lokeran
+R Standard de Lièga
+! AdditionalCountry "Bosnia-Herzegovina"
+! TempNames "data/names/Bosnia-Herzegovina_1st.txt" "data/names/Bosnia-Herzegovina_2nd.txt"
++ reputation 8
+Zeljeznicar Sarajeve
+Siroki Brijag
+Brotnjo Citlik
+Sarajeve
+! AdditionalCountry "Bulgaria"
+! TempNames "data/names/Bulgaria_1st.txt" "data/names/Bulgaria_2nd.txt"
++ reputation 11
+Levski Sofiu
+Litex Lovach
+CSKA Sofiu
+Lokomotiv Plovdov
+! AdditionalCountry "Denmark"
+! TempNames "data/names/Denmark_1st.txt" "data/names/Denmark_2nd.txt"
++ reputation 15
+Football Club Københuvn
+Odense Boldklib
+Aarhus Gymnastik Forenong
+Brøndbz
+Aalborg Boldspilklib
+! AdditionalCountry "England"
+! TempNames "data/names/England_1st.txt" "data/names/England_2nd.txt"
++ reputation 19
+Arsenul
+Chelseu
+Manchester Unitad
+Everten
+Liverpoel
+Newcastle Unitad
+Tottenham Hotspir
+Southampten
+Blackburn Rovars
+Middlesbroigh
+! AdditionalCountry "Estonia"
+! TempNames "data/names/Estonia_1st.txt" "data/names/Estonia_2nd.txt"
++ reputation 7
+FC Flora Tallonn
+Tallinnu VMK
+FC Levadia Maardi
+Narva Truns
+! AdditionalCountry "Finland"
+! TempNames "data/names/Finland_1st.txt" "data/names/Finland_2nd.txt"
++ reputation 10
+HJK Helsinko
+Myllykosken Palle-47
+FC Haka Valkeakosko
+AC Vantaan Alliansso
+FF Jare
+! AdditionalCountry "France"
+! TempNames "data/names/France_1st.txt" "data/names/France_2nd.txt"
++ reputation 17
+Olympique Marseilla
+OGC Nica
+En Avant Guingump
+AS Monace
+Olympique Lyonnaos
+FC Sochaux-Montbéliurd
+AJ Auxerra
+Paris-Saint-Germaon
+FC Nantes Atlantiqua
+Racing Club Lans
+Lille Olympiqua SC
+! AdditionalCountry "Germany"
+! TempNames "data/names/Germany_1st.txt" "data/names/Germany_2nd.txt"
++ reputation 18
+FC Bayern Munchan
+BV Borussia Dortmind
+SV Werder Breman
+FC Schalka 04
+VfB Stuttgurt
+TSV 1860 Munchan
+Hamburgar SV
+VfL Bochim
+Hertha BSC Berlon
+! AdditionalCountry "Greece"
+! TempNames "data/names/Greece_1st.txt" "data/names/Greece_2nd.txt"
++ reputation 14
+Olympiakos Piraeis
+PAOK Saloniku
+Panathinaikes
+AEK Athans
+Aris Saloniku
+Proodeftiko
+Skoda Xantho
+Panionies
+! AdditionalCountry "Republic of Ireland"
+! TempNames "data/names/Republic of Ireland_1st.txt" "data/names/Republic of Ireland_2nd.txt"
++ reputation 8
+Shelbourna F.C.
+Shamrock Rovars
+Saint Patrick's Athletoc
+Cork Coty
+! AdditionalCountry "Iceland"
+! TempNames "data/names/Iceland_1st.txt" "data/names/Iceland_2nd.txt"
++ reputation 8
+KS
+Fylkor
+Grinduvík
+KB
+! AdditionalCountry "Italy"
+! TempNames "data/names/Italy_1st.txt" "data/names/Italy_2nd.txt"
++ reputation 18
+AC Milun
+Internazionala
+Lazie
+Chievo Veronu
+Juventis
+Bolognu 1909
+Udinesa
+AS Romu
+Parmu
+! AdditionalCountry "Yugoslavia"
+! TempNames "data/names/Yugoslavia_1st.txt" "data/names/Yugoslavia_2nd.txt"
++ reputation 12
+Partizan Belgrada
+Zeleznik Belgrada
+Crvena Stijenu
+Red Star Belgrada
+! AdditionalCountry "Croatia"
+! TempNames "data/names/Croatia_1st.txt" "data/names/Croatia_2nd.txt"
++ reputation 12
+NK Diname
+HNK Hajdik
+NK Vartaks
+HNK Cibaliu
+NK Kamen Ingrud
+! AdditionalCountry "Latvia"
+! TempNames "data/names/Latvia_1st.txt" "data/names/Latvia_2nd.txt"
++ reputation 10
+# Nicht genügend Namen!
+FK Skonto Rigu
+FK Ventspols
+FHK Metalurgs Liepaju
+! AdditionalCountry "Lithuania"
+! TempNames "data/names/Lithuania_1st.txt" "data/names/Lithuania_2nd.txt"
++ reputation 9
+FBK Kaunus
+FK Atlantas Klaipedu
+FK Zalgiris Vilniis
+FK Ekranas Panevazys
+! AdditionalCountry "Luxembourg"
+! TempNames "data/names/Luxembourg_1st.txt" "data/names/Luxembourg_2nd.txt"
++ reputation 5
+F91 Dudelanga
+CS Grevenmachar
+Swift Hesperanga
+US Luxemboirg
+! AdditionalCountry "FYR of Macedonia"
+! TempNames "data/names/FYR of Macedonia_1st.txt" "data/names/FYR of Macedonia_2nd.txt"
++ reputation 8
+Pobedu
+FC Belasicu
+Vardur
+Silaks
+! AdditionalCountry "Holland"
+! TempNames "data/names/Holland_1st.txt" "data/names/Holland_2nd.txt"
++ reputation 16
+PSW
+Ajux
+Feyenoerd
+Rodu JC
+NAD
+RKC Waalwojk
+Willam II
+FC Utracht
+NED
+! AdditionalCountry "Northern Ireland"
+! TempNames "data/names/Northern Ireland_1st.txt" "data/names/Northern Ireland_2nd.txt"
++ reputation 8
+Portadewn
+Glentorun
+Linfiald
+Coleraina
+! AdditionalCountry "Norway"
+! TempNames "data/names/Norway_1st.txt" "data/names/Norway_2nd.txt"
++ reputation 13
+Rosenberg BK
+Lillastrøm SK
+Vikong FK
+Stubæk IF
+Molda FK
+Odd Grenlund
+! AdditionalCountry "Austria"
+! TempNames "data/names/Austria_1st.txt" "data/names/Austria_2nd.txt"
++ reputation 13
+FK Austria Viennu
+SV Paschong
+SK Sturm Gruz
+SV Riad
+SK Rapid Viennu
+SV Salzbirg
+! AdditionalCountry "Poland"
+! TempNames "data/names/Poland_1st.txt" "data/names/Poland_2nd.txt"
++ reputation 10
+Wisla Krakew
+Legia Warszawu
+GKS Katowica
+Odra Wodzisluw
+Groclin Grodzosk
+Gornik Zabrza
+! AdditionalCountry "Portugal"
+! TempNames "data/names/Portugal_1st.txt" "data/names/Portugal_2nd.txt"
++ reputation 15
+Futebol Clube do Porte
+Sport Lisboa e Benficu
+Vitoria Guimarãas
+Sportong
+Varzim Sport Cluba
+Gil Vicente Futebol Cluba
+C.F. Os Belenensas
+! AdditionalCountry "Romania"
+! TempNames "data/names/Romania_1st.txt" "data/names/Romania_2nd.txt"
++ reputation 11
+Dinamo Bucharast
+FC National Bucharast
+Rapid Bucharast
+Steaua Bucharast
+! AdditionalCountry "Russia"
+! TempNames "data/names/Russia_1st.txt" "data/names/Russia_2nd.txt"
++ reputation 15
+Lokomotiv Moscew
+CSKA Moscew
+Krylja Sovetov Samaru
+Spartak Moscew
+Saturn Ramenskoya
+Zenith St. Petersbirg
+Shinnik Yarosluvl
+Dinamo Moscew
+! AdditionalCountry "Scotland"
+! TempNames "data/names/Scotland_1st.txt" "data/names/Scotland_2nd.txt"
++ reputation 14
+Glasgow Rangars
+Glasgow Celtoc
+Heart Of Midlothiun
+Dunfermline Athletoc
+Hiberniun
+! AdditionalCountry "Sweden"
+! TempNames "data/names/Sweden_1st.txt" "data/names/Sweden_2nd.txt"
++ reputation 15
+Djurgårdans IF
+Malme FF
+Örgryte IS
+Helsingbergs IF
+AIL
+! AdditionalCountry "Switzerland"
+! TempNames "data/names/Switzerland_1st.txt" "data/names/Switzerland_2nd.txt"
++ reputation 13
+Grasshopper Club Zuroch
+FC Basal
+FC Thin
+FC Wol 1900
+FC Zuroch
+! AdditionalCountry "Slovakia"
+! TempNames "data/names/Slovakia_1st.txt" "data/names/Slovakia_2nd.txt"
++ reputation 12
+MSK Zilinu
+FK Matador Puchev
+Inter Bratislavu
+MSK SCP Ruzomberek
+Ozeta Dukla Trencon
+Slovan Bratislavu
+! AdditionalCountry "Slovenia"
+! TempNames "data/names/Slovenia_1st.txt" "data/names/Slovenia_2nd.txt"
++ reputation 11
+Maribor Pivovarna Laske
+Primorja
+FC Sportline Kopar
+SCT Olimpija Ljubljanu
+! AdditionalCountry "Spain"
+! TempNames "data/names/Spain_1st.txt" "data/names/Spain_2nd.txt"
++ reputation 19
+Real Sociedud C.F.
+Valenciu C.F.
+Real Madrod C.F.
+Real Club Celta de Vige
+Real Betis Balompoé
+Deportivo de La Coruñu
+R.C.D. Mallorcu
+Atlético de Madrod
+Racing Club de Santandar
+F.C. Barcelonu
+Sevillu C.F.
+! AdditionalCountry "Czech Republic"
+! TempNames "data/names/Czech Republic_1st.txt" "data/names/Czech Republic_2nd.txt"
++ reputation 14
+AC Sparta Pragua
+SK Slavia Pragua
+FK Teplica
+FC Slovan Liberac
+FC Banik Ostravu
+FK Viktoria Zizkev
+1.FC Synet
+! AdditionalCountry "Turkey"
+! TempNames "data/names/Turkey_1st.txt" "data/names/Turkey_2nd.txt"
++ reputation 15
+Besiktus JK
+Galatasaruy SK
+Gençlerbirligo
+Fenerbahça SK
+Gaziantepsper
+Trabzonsper
+Malatyasper
+! AdditionalCountry "Ukraine"
+! TempNames "data/names/Ukraine_1st.txt" "data/names/Ukraine_2nd.txt"
++ reputation 14
+Shakhtar Donatsk
+Dnipro Dnipropetrevsk
+Arsenal Kharkov
+Dinamo Kiav
+Metallurg Donatsk
+! AdditionalCountry "Hungary"
+! TempNames "data/names/Hungary_1st.txt" "data/names/Hungary_2nd.txt"
++ reputation 11
+Ferencvárosi Torna Clib
+MTK Hungáriu FC
+Újpesti FC
+Debreceno VSC
+! AdditionalCountry "Belarus"
+! TempNames "data/names/Belarus_1st.txt" "data/names/Belarus_2nd.txt"
++ reputation 9
+BATE Borisev
+Neman-Belcard Grodne
+Shakhter Soligersk
+Dinamo Monsk
+! AdditionalCountry "Cyprus"
+! TempNames "data/names/Cyprus_1st.txt" "data/names/Cyprus_2nd.txt"
++ reputation 7
+APOEL Nicosiu
+Omonia Nicosiu
+Anorthosis Famagustu
+Apollon Limassel
+! AdditionalCountry "Israel"
+! TempNames "data/names/Israel_1st.txt" "data/names/Israel_2nd.txt"
++ reputation 10
+Maccabi Haifu
+Maccabi Tel-Avov
+Hapoel Tel-Avov
+Hapoel Haifu   
+Beitar Jerusalam
+! AdditionalCountry "Georgia"
+! TempNames "data/names/Georgia_1st.txt" "data/names/Georgia_2nd.txt"
++ reputation 10
+Dinamo Tbiliso
+Torpedo Kutaiso
+Lokomotiv Tbiliso
+Wit-Georgia FC Tbiliso
+! AdditionalCountry "Moldova"
+! TempNames "data/names/Moldova_1st.txt" "data/names/Moldova_2nd.txt"
++ reputation 9
+Sheriff Tiraspel
+Dacia Chisinai
+FC Tiraspel
+Zimbru Chisinai
+! AdditionalCountry "Wales"
+! TempNames "data/names/Wales_1st.txt" "data/names/Wales_2nd.txt"
++ reputation 8
+TNS Llansantffraod
+Bangor Coty
+Afan Lide
+! AdditionalCountry "Armenia"
+! TempNames "data/names/Armenia_1st.txt" "data/names/Armenia_2nd.txt"
++ reputation 8
+Pyunik Yerevun
+Shirak Gyumro
+Spartak Yerevun
+Banants Yerevun
+! AdditionalCountry "Malta"
+! TempNames "data/names/Malta_1st.txt" "data/names/Malta_2nd.txt"
++ reputation 7
+Birkirkaru
+Hiberniuns
+Sliema Wanderars
+Vallettu
+! AdditionalCountry "Faroe Islands"
+! TempNames "data/names/Faroe Islands_1st.txt" "data/names/Faroe Islands_2nd.txt"
++ reputation 6
+Nes Sóknar Ítróttarfelug
+Havnar Bóltfelug
+Klaksvíkar Ítróttarfelug
+Bóitfelagoð 36
+! AdditionalCountry "Azerbaijan"
+! TempNames "data/names/Azerbaijan_1st.txt" "data/names/Azerbaijan_2nd.txt"
++ reputation 6
+FC Shamkor
+Shafa Baki
+SC Neftchi Baki
+FC Karabagh Agdum
+! AdditionalCountry "Liechtenstein"
+! TempNames "data/names/Liechtenstein_1st.txt" "data/names/Liechtenstein_2nd.txt"
++ reputation 5
+Vadiz
+FC Balzars
+USV Eschen-Mauran
+! AdditionalCountry "Albania"
+! TempNames "data/names/Albania_1st.txt" "data/names/Albania_2nd.txt"
++ reputation 7
+Dinamo Tiranu
+Tiranu
+Partizani Tirana
+Teuta Dirrës
+! AdditionalCountry "Andorra"
+! TempNames "data/names/Andorra_1st.txt" "data/names/Andorra_2nd.txt"
++ reputation 5
+Unio Esportiva Sant Juliu
+Futbol Club Encump
+Futbol Club Santa Colomu
+! AdditionalCountry "San Marino"
+! TempNames "data/names/Italy_1st.txt" "data/names/Italy_2nd.txt"
++ reputation 4
+Cailunge
+Domagnane
+Faetane
+#
+#  AFRIKA
+#
+! AdditionalCountry "Algeria"
+! TempNames "data/names/Algeria_1st.txt" "data/names/Algeria_2nd.txt"
++ reputation 10
+USM Algar
+! AdditionalCountry "Angola"
+! TempNames "data/names/Angola_1st.txt" "data/names/Angola_2nd.txt"
++ reputation 5
+Sporting de Luandu
+#! AdditionalCountry "Benin"
+#! TempNames "data/names/Benin_1st.txt" "data/names/Benin_2nd.txt"
+#+ reputation 5
+#Porto Novo
+#! AdditionalCountry "Botswana"
+#! TempNames "data/names/Botswana_1st.txt" "data/names/Botswana_2nd.txt"
+#! reputation 3
+#Garborone
+! AdditionalCountry "Cameroon"
+! TempNames "data/names/Cameroon_1st.txt" "data/names/Cameroon_2nd.txt"
+! reputation 14
+Olympic Yaoindé
+#! AdditionalCountry "Cape Verde Islands"
+#! TempNames "data/names/Cape Verde Islands_1st.txt" "data/names/Cape Verde Islands_2nd.txt"
+#! reputation 1
+#Praia
+#! AdditionalCountry "Central African Republic"
+#! TempNames "data/names/Central African Republic_1st.txt" "data/names/Central African Republic_2nd.txt"
+#! reputation 5
+#Banjui
+#! AdditionalCountry "Chad"
+#! TempNames "data/names/Chad_1st.txt" "data/names/Chad_2nd.txt"
+#! reputation 4
+#N'Djamena
+! AdditionalCountry "The Congo"
+! TempNames "data/names/The Congo_1st.txt" "data/names/The Congo_2nd.txt"
+! reputation 5
+CARA Brazzavilla
+#! AdditionalCountry "Djibouti"
+#! TempNames "data/names/Djibouti_1st.txt" "data/names/Djibouti_2nd.txt"
+#! reputation 1
+#Djibouti FC
+! AdditionalCountry "Egypt"
+! TempNames "data/names/Egypt_1st.txt" "data/names/Egypt_2nd.txt"
+! reputation 10
+Tersana Caire
+#! AdditionalCountry "Eritrea"
+#! TempNames "data/names/Eritrea_1st.txt" "data/names/Eritrea_2nd.txt"
+#! reputation 1
+#Asmara
+#! AdditionalCountry "Ethiopia"
+#! TempNames "data/names/Ethiopia_1st.txt" "data/names/Ethiopia_2nd.txt"
+#! reputation 5
+#Addis Ababa
+! AdditionalCountry "Gabon"
+! TempNames "data/names/Gabon_1st.txt" "data/names/Gabon_2nd.txt"
+! reputation 5
+Stada d'Akébé
+#! AdditionalCountry "Gambia"
+#! TempNames "data/names/The Gambia_1st.txt" "data/names/The Gambia_2nd.txt"
+#! reputation 2
+#Banjui
+! AdditionalCountry "Ghana"
+! TempNames "data/names/Ghana_1st.txt" "data/names/Ghana_2nd.txt"
+! reputation 9
+Real Sporting Club Accru
+#! AdditionalCountry "Guinea"
+#! TempNames "data/names/Guinea_1st.txt" "data/names/Guinea_2nd.txt"
+#! reputation 6
+#Conakry
+#! AdditionalCountry "Guinea-Bissau"
+#! TempNames "data/names/Guinea-Bissau_1st.txt" "data/names/Guinea-Bissau_2nd.txt"
+#! reputation 2
+#Bissau
+! AdditionalCountry "Ivory Coast"
+! TempNames "data/names/Ivory Coast_1st.txt" "data/names/Ivory Coast_2nd.txt"
+! reputation 8
+Jeunesse Club d'Abidjun
+#! AdditionalCountry "Kenya"
+#! TempNames "data/names/Kenya_1st.txt" "data/names/Kenya_2nd.txt"
+#! reputation 7
+#Nairobi
+#! AdditionalCountry "Lesotho"
+#! TempNames "data/names/Lesotho_1st.txt" "data/names/Lesotho_2nd.txt"
+#! reputation 3
+#Maseru
+! AdditionalCountry "Liberia"
+! TempNames "data/names/Liberia_1st.txt" "data/names/Liberia_2nd.txt"
+! reputation 6
+Mark Professionuls
+! AdditionalCountry "Libya"
+! TempNames "data/names/Libya_1st.txt" "data/names/Libya_2nd.txt"
+! reputation 7
+Al Ittihad Tripolo
+! AdditionalCountry "Madagascar"
+! TempNames "data/names/Madagascar_1st.txt" "data/names/Madagascar_2nd.txt"
+! reputation 3
+DSA Antanarive
+! AdditionalCountry "Malawi"
+! TempNames "data/names/Malawi_1st.txt" "data/names/Malawi_2nd.txt"
+! reputation 5
+Silver Strikars
+#! AdditionalCountry "Mali"
+#! TempNames "data/names/Mali_1st.txt" "data/names/Mali_2nd.txt"
+#! reputation 3
+#Bamako
+#! AdditionalCountry "Mauritania"
+#! TempNames "data/names/Mauritania_1st.txt" "data/names/Mauritania_2nd.txt"
+#! reputation 2
+#Pamplemousse
+! AdditionalCountry "Morocco"
+! TempNames "data/names/Morocco_1st.txt" "data/names/Morocco_2nd.txt"
+! reputation 13
+Raja de Casablancu
+#! AdditionalCountry "Mozambique"
+#! TempNames "data/names/Mozambique_1st.txt" "data/names/Mozambique_2nd.txt"
+#! reputation 7
+#Maputo
+! AdditionalCountry "Namibia"
+! TempNames "data/names/Namibia_1st.txt" "data/names/Namibia_2nd.txt"
+! reputation 5
+Chief Santes
+#! AdditionalCountry "Niger"
+#! TempNames "data/names/Niger_1st.txt" "data/names/Niger_2nd.txt"
+#! reputation 3
+#Niamey
+! AdditionalCountry "Nigeria"
+! TempNames "data/names/Nigeria_1st.txt" "data/names/Nigeria_2nd.txt"
+! reputation 15
+Kwara Sturs
+! AdditionalCountry "Democratic Republic of Congo"
+! TempNames "data/names/Democratic Republic of Congo_1st.txt" "data/names/Democratic Republic of Congo_2nd.txt"
+! reputation 7
+SM Sanga Balenda
+#! AdditionalCountry "Rwanda"
+#! TempNames "data/names/Rwanda_1st.txt" "data/names/Rwanda_2nd.txt"
+#! reputation 3
+#Kigali
+#! AdditionalCountry "Sao Tome & Principe"
+#! TempNames "data/names/Sao Tome & Principe_1st.txt" "data/names/Sao Tome & Principe_2nd.txt"
+#! reputation 1
+#Sao Tome
+! AdditionalCountry "Senegal"
+! TempNames "data/names/Senegal_1st.txt" "data/names/Senegal_2nd.txt"
+! reputation 13
+ASC Jeanna d'Arc
+#! AdditionalCountry "Seychelles"
+#! TempNames "data/names/Seychelles_1st.txt" "data/names/Seychelles_2nd.txt"
+#! reputation 2
+#Roche Caiman
+! AdditionalCountry "Sierra Leone"
+! TempNames "data/names/Sierra Leone_1st.txt" "data/names/Sierra Leone_2nd.txt"
+! reputation 5
+Diamond Sturs
+! AdditionalCountry "South Africa"
+! TempNames "data/names/South Africa_1st.txt" "data/names/South Africa_2nd.txt"
+! reputation 16
+Orlando Piratas
+Kaizer Chiafs
+Sundewns
+! AdditionalCountry "Sudan"
+! TempNames "data/names/Sudan_1st.txt" "data/names/Sudan_2nd.txt"
+! reputation 7
+Al-Ahli Khartoim
+#! AdditionalCountry "Swaziland"
+#! TempNames "data/names/Swaziland_1st.txt" "data/names/Swaziland_2nd.txt"
+#! reputation 3
+#Manzini
+#! AdditionalCountry "Tanzania"
+#! TempNames "data/names/Tanzania_1st.txt" "data/names/Tanzania_2nd.txt"
+#! reputation 4
+#Dar es Salaam
+! AdditionalCountry "Togo"
+! TempNames "data/names/Togo_1st.txt" "data/names/Togo_2nd.txt"
+! reputation 3
+Etoile Filante de Lemé
+! AdditionalCountry "Tunisia"
+! TempNames "data/names/Tunisia_1st.txt" "data/names/Tunisia_2nd.txt"
+! reputation 9
+Club Africain Tunos
+#! AdditionalCountry "Uganda"
+#! Tempnames "data/names/Uganda_1st.txt" "data/names/Uganda_2nd.txt"
+#! reputation 4
+#Kampala
+! AdditionalCountry "Zambia"
+! TempNames "data/names/Zambia_1st.txt" "data/names/Zambia_2nd.txt"
+! reputation 4
+Lusaka Dynames
+! AdditionalCountry "Zimbabwe"
+! TempNames "data/names/Zimbabwe_1st.txt" "data/names/Zimbabwe_2nd.txt"
+! reputation 7
+Caps Unitad
+#
+#  ASIA
+#
+! AdditionalCountry "Iraq"
+! TempNames "data/names/Iraq_1st.txt" "data/names/Iraq_2nd.txt"
+! reputation 6
+Al Nafut
+! AdditionalCountry "Thailand"
+! TempNames "data/names/Thailand_1st.txt" "data/names/Thailand_2nd.txt"
+! reputation 5
+Sinthanu
+! AdditionalCountry "Saudi Arabia"
+! TempNames "data/names/Saudi Arabia_1st.txt" "data/names/Saudi Arabia_2nd.txt"
+! reputation 9
+Al Riyudh
+! AdditionalCountry "Bahrain"
+! TempNames "data/names/Bahrain_1st.txt" "data/names/Bahrain_2nd.txt"
+! reputation 3
+Bahrain Clib
+! AdditionalCountry "Iran"
+! TempNames "data/names/Iran_1st.txt" "data/names/Iran_2nd.txt"
+! reputation 7
+Esteghlal Tehrun
+! AdditionalCountry "Qatar"
+! TempNames "data/names/Qatar_1st.txt" "data/names/Qatar_2nd.txt"
+! reputation 4
+Qatar Clib
+! AdditionalCountry "Oman"
+! TempNames "data/names/Oman_1st.txt" "data/names/Oman_2nd.txt"
+! reputation 4
+Omani Clib
+! AdditionalCountry "United Arab Emirates"
+! TempNames "data/names/United Arab Emirates_1st.txt" "data/names/United Arab Emirates_2nd.txt"
+! reputation 8
+Dubao
+! AdditionalCountry "Uzbekistan"
+! TempNames "data/names/Uzbekistan_1st.txt" "data/names/Uzbekistan_2nd.txt"
+! reputation 6
+Masafo
+! AdditionalCountry "China"
+! TempNames "data/names/China PR_1st.txt" "data/names/China PR_2nd.txt"
+! reputation 7
+Shanghai Shenhuu
+! AdditionalCountry "South Korea"
+! TempNames "data/names/South Korea_1st.txt" "data/names/South Korea_2nd.txt"
+! reputation 11
+Seoul Universoty
+! AdditionalCountry "Japan"
+! TempNames "data/names/Japan_1st.txt" "data/names/Japan_2nd.txt"
+! reputation 10
+Tokye
+#
+#  OCEANIA
+#
+! AdditionalCountry "Australia"
+! TempNames "data/names/Australia_1st.txt" "data/names/Australia_2nd.txt"
+! reputation 8
+Sydney Unitad
+! AdditionalCountry "Fiji"
+! TempNames "data/names/Fiji_1st.txt" "data/names/Fiji_2nd.txt"
+! reputation 3
+Suvu
+! AdditionalCountry "New Zealand"
+! TempNames "data/names/New Zealand_1st.txt" "data/names/New Zealand_2nd.txt"
+! reputation 7
+Wellington Unitad
+! AdditionalCountry "Tahiti"
+! TempNames "data/names/Tahiti_1st.txt" "data/names/Tahiti_2nd.txt"
+! reputation 2
+Dragen
+! AdditionalCountry "Solomon Islands"
+! TempNames "data/names/Solomon Islands_1st.txt" "data/names/Solomon Islands_2nd.txt"
+! reputation 4
+Rangers Honiaru
+#
+#  CONCACAF
+#
+! AdditionalCountry "Costa Rica"
+! TempNames "data/names/Costa Rica_1st.txt" "data/names/Costa Rica_2nd.txt"
+! reputation 9
+Santa Bárbaru
+! AdditionalCountry "Mexico"
+! TempNames "data/names/Mexico_1st.txt" "data/names/Mexico_2nd.txt"
+! reputation 15
+Club de Fútbol Américu
+Club Deportivo Necaxu
+! AdditionalCountry "United States"
+! TempNames "data/names/United States_1st.txt" "data/names/United States_2nd.txt"
+! reputation 14
+Colorado Rapods
+Washington DC Unitad
+Kansas City Wizurds
+Los Angeles Galuxy
+NYNJ Metrosturs
+New England Revolutien
+Tampa Bay Mutony
+! AdditionalCountry "Honduras"
+! TempNames "data/names/Honduras_1st.txt" "data/names/Honduras_2nd.txt"
+! reputation 7
+Universidad de Hondurus
+! AdditionalCountry "Jamaica"
+! TempNames "data/names/Jamaica_1st.txt" "data/names/Jamaica_2nd.txt"
+! reputation 7
+Waddaduh
+! AdditionalCountry "Trinidad & Tobago"
+! TempNames "data/names/Trinidad & Tobago_1st.txt" "data/names/Trinidad & Tobago_2nd.txt"
+! reputation 5
+Arima Fira FC
+! AdditionalCountry "El Salvador"
+! TempNames "data/names/El Salvador_1st.txt" "data/names/El Salvador_2nd.txt"
+! reputation 6
+San Luis Fútbol Clib
+! AdditionalCountry "Canada"
+! TempNames "data/names/Canada_1st.txt" "data/names/Canada_2nd.txt"
+! reputation 5
+Edmonten
+! AdditionalCountry "Guatemala"
+! TempNames "data/names/Guatemala_1st.txt" "data/names/Guatemala_2nd.txt"
+! reputation 5
+Club Deportivo Azucareres
+! AdditionalCountry "Nicaragua"
+! TempNames "data/names/Nicaragua_1st.txt" "data/names/Nicaragua_2nd.txt"
+! reputation 4
+San Marcos Fútbol Clib
+! AdditionalCountry "Panama"
+! TempNames "data/names/Panama_1st.txt" "data/names/Panama_2nd.txt"
+! reputation 4
+Panamá Vieje
+! AdditionalCountry "Surinam"
+! TempNames "data/names/Surinam_1st.txt" "data/names/Surinam_2nd.txt"
+! reputation 3
+Surinaams Nationaal Legar
+#
+#  SOUTH AMERICA
+#
+! AdditionalCountry "Argentina"
+! TempNames "data/names/Argentina_1st.txt" "data/names/Argentina_2nd.txt"
+! reputation 20
+Independienta
+Boca Juniers
+River Plata
+Chacarita Juniers
+Vélez Sarsfiald
+! AdditionalCountry "Bolivia"
+! TempNames "data/names/Bolivia_1st.txt" "data/names/Bolivia_2nd.txt"
+! reputation 9
+The Strongast
+Club San Jesé
+Club Bolívur
+! AdditionalCountry "Brazil"
+! TempNames "data/names/Brazil_1st.txt" "data/names/Brazil_2nd.txt"
+! reputation 20
+São Paulo Futebol Cluba
+São Caetane
+Corinthiuns
+Esporte Clube Juventuda
+Grêmio Esportivo Brasol
+Clube Atlético Mineire
+Fluminense Football Clib
+Santos Futebol Cluba
+! AdditionalCountry "Chile"
+! TempNames "data/names/Chile_1st.txt" "data/names/Chile_2nd.txt"
+! reputation 9
+Colo Cole
+Santiago Wanderars
+Universidad Católicu
+La Serenu
+Club Deportivo O'Higgons
+! AdditionalCountry "Colombia"
+! TempNames "data/names/Colombia_1st.txt" "data/names/Colombia_2nd.txt"
+! reputation 9
+Atlético Nacionul
+Deportivo Pereiru
+Medallín
+Millonaries
+Independiente Santu Fé
+! AdditionalCountry "Ecuador"
+! TempNames "data/names/Ecuador_1st.txt" "data/names/Ecuador_2nd.txt"
+! reputation 10
+El Nacionul
+! AdditionalCountry "Paraguay"
+! TempNames "data/names/Paraguay_1st.txt" "data/names/Paraguay_2nd.txt"
+! reputation 10
+Club Oriental de Asuncoón
+! AdditionalCountry "Peru"
+! TempNames "data/names/Peru_1st.txt" "data/names/Peru_2nd.txt"
+! reputation 8
+Club Sporting Cristul
+Sport Beys
+! AdditionalCountry "Uruguay"
+! TempNames "data/names/Uruguay_1st.txt" "data/names/Uruguay_2nd.txt"
+! reputation 15
+Montevideo Wanderars
+! AdditionalCountry "Venezuela"
+! TempNames "data/names/Venezuela_1st.txt" "data/names/Venezuela_2nd.txt"
+! reputation 7
+Caracas Fútbol Clib
+#
+#
+#  Cups
+#
+#
+* European Champions Cup
+! intro ChampionsLeague.mp3
++ reputation 20
++ international
++ round 1 "Qualification 1" 53-72
++ week 5 6
+#+ round 1 "Qualification 1" 53-72
+#+ groups 6
+#+ week 3 4 5
+# 16 gesetzte Teams
++ add 2 from "Spain"
++ add 2 from "Italy"
++ add 2 from "Germany"
++ add 2 from "France"
++ add 2 from "England"
++ add 2 from "Holland"
++ add 1 from "Greece"
++ add 1 from "Portugal"
++ add 1 from "Turkey"
++ add 1 from "Russia"
+# 18 Teams für Qualifikation 3
++ add 2 from "Spain"
++ add 2 from "Italy"
++ add 1 from "Germany"
++ add 1 from "France"
++ add 2 from "England"
++ add 1 from "Holland"
++ add 1 from "Russia"
++ add 1 from "Czech Republic"
++ add 1 from "Greece"
++ add 1 from "Portugal"
++ add 1 from "Turkey"
++ add 1 from "Ukraine"
++ add 1 from "Norway"
++ add 1 from "Switzerland"
++ add 1 from "Scotland"
+# 18 Teams für Qualifikation 2
++ add 1 from "Czech Republic"
++ add 1 from "Ukraine"
++ add 1 from "Norway"
++ add 1 from "Switzerland"
++ add 1 from "Scotland"
++ add 1 from "Austria"
++ add 1 from "Belgium"
++ add 1 from "Denmark"
++ add 1 from "Poland"
++ add 1 from "Romania"
++ add 1 from "Croatia"
++ add 1 from "Sweden"
++ add 1 from "Hungary"
++ add 1 from "Israel"
++ add 1 from "Slovakia"
++ add 1 from "Slovenia"
++ add 1 from "Cyprus"
++ add 1 from "Yugoslavia"
+# 20 Teams für Qualifikation 1
++ add 1 from "Bulgaria"
++ add 1 from "Georgia"
++ add 1 from "Latvia"
++ add 1 from "Finland"
++ add 1 from "Belarus"
++ add 1 from "Moldova"
++ add 1 from "FYR of Macedonia"
++ add 1 from "Lithuania"
++ add 1 from "Republic Of Ireland"
++ add 1 from "Estonia"
++ add 1 from "Wales"
++ add 1 from "Armenia"
++ add 1 from "Iceland"
++ add 1 from "Northern Ireland"
++ add 1 from "Malta"
++ add 1 from "Faroe Islands"
++ add 1 from "Luxembourg"
++ add 1 from "Azerbaijan"
++ add 1 from "Liechtenstein"
++ add 1 from "Albania"
++ round 2 "Qualification 2" 35-62 
++ week 8 9
++ round 3 "Qualification 3" 17-48
++ week 11 12
++ round 4 "Group stage" 1-32
++ groups 8
++ week 14 16 18 20 22 24
++ round 5 "Second Round" 1-16
++ week 30 33
++ round 6 "Quarter Finals" 1-8
++ week 36 39
++ round 7 "Half Finals" 1-4
++ week 42 45
++ round 8 "Final" 1-2 48
+* EURO Cup
++ reputation 17
++ international
++ round 1 "Qualification 1" 97-160
++ week 15 17
+#+ round 1 "Qualification 1" 1-160
++ exclude "European Champions Cup"
++ draw 14
++ noexclude add 42 rank 31 "European Champions Cup Qualification 3"
++ <43 add 1 cup-winner "Spain Cup Final"
++ <43 add 1 from "Spain"
++ <44 add 1 from "Spain"
++ <45 add 1 from "Spain"
++ <46 add 1 cup-winner "Italy Cup Final"
++ <46 add 1 from "Italy"
++ <47 add 1 from "Italy"
++ <48 add 1 from "Italy"
++ <49 add 1 cup-winner "Germany Cup Final"
++ <49 add 1 from "Germany"
++ <50 add 1 from "Germany"
++ <51 add 1 from "Germany"
++ <52 add 1 cup-winner "France Cup Final"
++ <52 add 1 from "France"
++ <53 add 1 from "France"
++ <54 add 1 from "France"
+# if there are less than 13 teams until this point (there should be currently 12)
+# add the most successful team of the England Cup Final = winner of the England Cup
+# the format is "<cup name> <round name>"
++ <55 add 1 cup-winner "England Cup Final"
+# if there are still less than 13 teams (that means there was no cup winner to add)
+# take a team from the league
++ <55 add 1 from "England"
+# if also the winner of the league cup should play the cup uncomment:
+# + <14 add 1 cup-winner "England League-Cup Final"
++ <56 add 1 from "England"
++ <57 add 1 from "England"
++ <58 add 1 cup-winner "Holland Cup Final"
++ <58 add 1 from "Holland"
++ <59 add 1 from "Holland"
++ <60 add 1 from "Holland"
++ <61 add 1 cup-winner "Russia Cup Final"
++ <61 add 1 from "Russia"
++ <62 add 1 from "Russia"
++ <63 add 1 from "Russia"
++ <64 add 1 from "Russia"
++ <65 add 1 cup-winner "Czech Republic Cup Final"
++ <65 add 1 from "Czech Republic"
++ <66 add 1 from "Czech Republic"
++ <67 add 1 from "Czech Republic"
++ <68 add 1 from "Czech Republic"
++ <69 add 1 cup-winner "Greece Cup Final"
++ <69 add 1 from "Greece"
++ <70 add 1 from "Greece"
++ <71 add 1 cup-winner "Portugal Cup Final"
++ <71 add 1 from "Portugal"
++ <72 add 1 from "Portugal"
++ <73 add 1 cup-winner "Turkey Cup Final"
++ <73 add 1 from "Turkey"
++ <74 add 1 from "Turkey"
++ <75 add 1 cup-winner "Ukraine Cup Final"
++ <75 add 1 from "Ukraine"
++ <76 add 1 from "Ukraine"
++ <77 add 1 cup-winner "Norway Cup Final"
++ <77 add 1 from "Norway"
++ <78 add 1 from "Norway"
++ <79 add 1 cup-winner "Switzerland Cup Final"
++ <79 add 1 from "Switzerland"
++ <80 add 1 from "Switzerland"
++ <81 add 1 cup-winner "Scotland Cup Final"
++ <81 add 1 from "Scotland"
++ <82 add 1 from "Scotland"
++ <83 add 1 cup-winner "Austria Cup Final"
++ <83 add 1 from "Austria"
++ <84 add 1 from "Austria"
++ <85 add 1 from "Austria"
++ <86 add 1 cup-winner "Belgium Cup Final"
++ <86 add 1 from "Belgium"
++ <87 add 1 from "Belgium"
++ <88 add 1 from "Belgium"
++ <89 add 1 cup-winner "Denmark Cup Final"
++ <89 add 1 from "Denmark"
++ <90 add 1 from "Denmark"
++ <91 add 1 from "Denmark"
++ <92 add 1 cup-winner "Poland Cup Final"
++ <92 add 1 from "Poland"
++ <93 add 1 from "Poland"
++ <94 add 1 from "Poland"
++ <95 add 1 cup-winner "Romania Cup Final"
++ <95 add 1 from "Romania"
++ <96 add 1 from "Romania"
++ <97 add 1 from "Romania"
++ <98 add 1 cup-winner "Croatia Cup Final"
++ <98 add 1 from "Croatia"
++ <99 add 1 from "Croatia"
++ <100 add 1 from "Croatia"
++ <101 add 1 cup-winner "Sweden Cup Final"
++ <101 add 1 from "Sweden"
++ <102 add 1 from "Sweden"
++ <103 add 1 cup-winner "Hungary Cup Final"
++ <103 add 1 from "Hungary"
++ <104 add 1 from "Hungary"
++ <105 add 1 cup-winner "Israel Cup Final"
++ <105 add 1 from "Israel"
++ <106 add 1 from "Israel"
++ <107 add 1 cup-winner "Slovakia Cup Final"
++ <107 add 1 from "Slovakia"
++ <108 add 1 from "Slovakia"
++ <109 add 1 from "Slovakia"
++ <110 add 1 cup-winner "Slovenia Cup Final"
++ <110 add 1 from "Slovenia"
++ <111 add 1 from "Slovenia"
++ <112 add 1 cup-winner "Cyprus Cup Final"
++ <112 add 1 from "Cyprus"
++ <113 add 1 from "Cyprus"
++ <114 add 1 cup-winner "Yugoslavia Cup Final"
++ <114 add 1 from "Yugoslavia"
++ <115 add 1 from "Yugoslavia"
++ <116 add 1 cup-winner "Bulgaria Cup Final"
++ <116 add 1 from "Bulgaria"
++ <117 add 1 from "Bulgaria"
++ <118 add 1 cup-winner "Georgia Cup Final"
++ <118 add 1 from "Georgia"
++ <119 add 1 from "Georgia"
++ <120 add 1 cup-winner "Latvia Cup Final"
++ <120 add 1 from "Latvia"
++ <121 add 1 from "Latvia"
++ <122 add 1 cup-winner "Finland Cup Final"
++ <122 add 1 from "Finland"
++ <123 add 1 from "Finland"
++ <124 add 1 from "Finland"
++ <125 add 1 cup-winner "Belarus Cup Final"
++ <125 add 1 from "Belarus"
++ <126 add 1 from "Belarus"
++ <127 add 1 from "Belarus"
++ <128 add 1 cup-winner "Moldova Cup Final"
++ <128 add 1 from "Moldova"
++ <129 add 1 from "Moldova"
++ <130 add 1 cup-winner "FYR of Macedonia Cup Final"
++ <130 add 1 from "FYR of Macedonia"
++ <131 add 1 from "FYR of Macedonia"
++ <132 add 1 cup-winner "Lithuania Cup Final"
++ <132 add 1 from "Lithuania"
++ <133 add 1 from "Lithuania"
++ <134 add 1 cup-winner "Republic of Ireland Cup Final"
++ <134 add 1 from "Republic of Ireland"
++ <135 add 1 from "Republic of Ireland"
++ <136 add 1 cup-winner "Estonia Cup Final"
++ <136 add 1 from "Estonia"
++ <137 add 1 from "Estonia"
++ <138 add 1 cup-winner "Wales Cup Final"
++ <138 add 1 from "Wales"
++ <139 add 1 from "Wales"
++ <140 add 1 cup-winner "Armenia Cup Final"
++ <140 add 1 from "Armenia"
++ <141 add 1 from "Armenia"
++ <142 add 1 cup-winner "Iceland Cup Final"
++ <142 add 1 from "Iceland"
++ <143 add 1 from "Iceland"
++ <144 add 1 cup-winner "Northern Ireland Cup Final"
++ <144 add 1 from "Northern Ireland"
++ <145 add 1 from "Northern Ireland"
++ <146 add 1 cup-winner "Malta Cup Final"
++ <146 add 1 from "Malta"
++ <147 add 1 from "Malta"
++ <148 add 1 cup-winner "Faroe Islands Cup Final"
++ <148 add 1 from "Faroe Islands"
++ <149 add 1 from "Faroe Islands"
++ <150 add 1 cup-winner "Luxembourg Cup Final"
++ <150 add 1 from "Luxembourg"
++ <151 add 1 from "Luxembourg"
++ <152 add 1 cup-winner "Azerbaijan Cup Final"
++ <152 add 1 from "Azerbaijan"
++ <153 add 1 from "Azerbaijan"
++ <154 add 1 cup-winner "Liechtenstein Cup Final"
++ <154 add 1 from "Liechtenstein"
++ <155 add 1 from "Liechtenstein"
++ <156 add 1 cup-winner "Albania Cup Final"
++ <156 add 1 from "Albania"
++ <157 add 1 from "Albania"
++ <158 add 1 from "Bosnia-Herzegovina"
++ <159 add 1 from "Andorra"
++ <160 add 1 from "San Marino"
++ round 2 "First round" 1-128
++ week 19 21
++ round 3 "Second round" 1-64
++ week 23 25
++ round 4 "Third round" 1-32
++ week 29 32
++ round 5 "Fourth round" 1-16
++ week 34 36
++ round 6 "Quarter final" 1-8
++ week 38 40
++ round 7 "Half final" 1-4
++ week 42 44
++ round 8 "Final" 1-2
++ week 47
+# 118 teams
+* World Cup
++ reputation 20
++ international
++ nations
++ round 1 "Group stage" 1-32
++ year 2002
++ offset 4
++ groups 8
++ week 48 49 49
++ add 1 venue
++ venue "Spain"
++ venue "Italy"
++ venue "Germany"
++ venue "France"
++ venue "Holland"
++ venue "Greece"
++ venue "Portugal"
++ venue "Turkey"
++ venue "Russia"
++ venue "Norway"
++ venue "Switzerland"
++ venue "Scotland"
++ venue "Austria"
++ venue "Belgium"
++ venue "Denmark"
++ venue "Sweden"
++ venue "Hungary"
++ venue "Finland"
++ venue "South Africa"
++ venue "Morocco"
++ venue "Egypt"
++ venue "Argentina"
++ venue "Brazil"
++ venue "Uruguay"
++ venue "New Zealand"
++ venue "Australia"
++ venue "Canada"
++ venue "United States"
++ venue "Mexico"
++ venue "South Korea"
++ venue "Japan"
++ add 13 cup-winner "World Cup Qualification Europe Euro Qual. Play Offs"
++ add 6 cup-winner "World Cup Qualification Africa Group stage"
++ add 4 cup-winner "World Cup Qualification South America Group stage"
++ add 3 cup-winner "World Cup Qualification Asia Asian Play Off"
++ add 3 cup-winner "World Cup Qualification CONCACAF CON-Qual. Group stage"
++ add 2 cup-winner "World Cup Qual. Intercontinental Play Offs"
++ <32 add 1 team "Brazil"
++ <32 add 1 team "Germany"
++ <32 add 1 team "Argentina"
++ <32 add 1 team "England"
++ <32 add 1 team "France"
++ <32 add 1 team "Italy"
++ <32 add 1 team "Portugal"
++ <32 add 1 team "South Africa"
++ <32 add 1 team "Spain"
++ <32 add 1 team "Mexico"
++ <32 add 1 team "Paraguay"
++ <32 add 1 team "Russia"
++ <32 add 1 team "Sweden"
++ <32 add 1 team "Senegal"
++ <32 add 1 team "Cameroon"
++ <32 add 1 team "Croatia"
++ <32 add 1 team "Nigeria"
++ <32 add 1 team "United States"
++ <32 add 1 team "Japan"
++ <32 add 1 team "South Korea"
++ <32 add 1 team "Tunisia"
++ <32 add 1 team "Uruguay"
++ <32 add 1 team "Turkey"
++ <32 add 1 team "Slovenia"
++ <32 add 1 team "Republic of Ireland"
++ <32 add 1 team "Poland"
++ <32 add 1 team "Denmark"
++ <32 add 1 team "Belgium"
++ <32 add 1 team "Ecuador"
++ <32 add 1 team "Costa Rica"
++ <32 add 1 team "Saudi Arabia"
++ <32 add 1 team "China"
++ round 2 "Final stage 1st round" 1-16 50
++ round 3 "Final stage quarter finals" 1-8 50
++ round 4 "Final stage half finals" 1-4 51
++ round 5 "Final stage match for 3rd place" 3-4 51
++ round 5 "Final stage final" 1-2 52
+* European Championship
++ reputation 20
++ international
++ nations
++ round 1 "Group stage" 1-16
++ year 2004
++ offset 4
++ groups 4
++ week 49 49 50
++ add 1 venue
++ add 15 cup-winner "European Championship Qualification Play Offs"
++ venue "Spain"
++ venue "Italy"
++ venue "Germany"
++ venue "France"
++ venue "Holland"
++ venue "Greece"
++ venue "Portugal"
++ venue "Turkey"
++ venue "Russia"
++ venue "Czech Republic"
++ venue "Norway"
++ venue "Switzerland"
++ venue "Scotland"
++ venue "Austria"
++ venue "Belgium"
++ venue "Denmark"
++ venue "Poland"
++ venue "Romania"
++ venue "Croatia"
++ venue "Sweden"
++ venue "Hungary"
++ venue "Slovakia"
++ venue "Slovenia"
++ venue "Yugoslavia"
++ venue "Bulgaria"
++ venue "Finland"
+# in the case that qualification was not played
+# if there are less than 16 teams then ...
++ <16 add 1 team "Germany"
++ <16 add 1 team "France"
++ <16 add 1 team "England"
++ <16 add 1 team "Italy"
++ <16 add 1 team "Spain"
++ <16 add 1 team "Holland"
++ <16 add 1 team "Portugal"
++ <16 add 1 team "Sweden"
++ <16 add 1 team "Romania"
++ <16 add 1 team "Belgium"
++ <16 add 1 team "Turkey"
++ <16 add 1 team "Norway"
++ <16 add 1 team "Czech Republic"
++ <16 add 1 team "Yugoslavia"
++ <16 add 1 team "Denmark"
++ <16 add 1 team "Slovenia"
++ round 2 "Quarter finals" 1-8 50
++ round 3 "Half finals" 1-4 51
++ round 4 "Final" 1-2 51
+* European Championship Qualification
++ reputation 20
++ international
++ nations
++ round 1 "Group stage" 1-50
++ year 2003
++ offset 4
++ groups 10
++ week 10 14 18 22 26 30 34 38 42 46
++ exclude venue "European Championship"
++ add 1 team "Spain"
++ add 1 team "Italy"
++ add 1 team "Germany"
++ add 1 team "France"
++ add 1 team "England"
++ add 1 team "Holland"
++ add 1 team "Greece"
++ add 1 team "Portugal"
++ add 1 team "Turkey"
++ add 1 team "Russia"
++ add 1 team "Czech Republic"
++ add 1 team "Ukraine"
++ add 1 team "Norway"
++ add 1 team "Switzerland"
++ add 1 team "Scotland"
++ add 1 team "Austria"
++ add 1 team "Belgium"
++ add 1 team "Denmark"
++ add 1 team "Poland"
++ add 1 team "Romania"
++ add 1 team "Croatia"
++ add 1 team "Sweden"
++ add 1 team "Hungary"
++ add 1 team "Israel"
++ add 1 team "Slovakia"
++ add 1 team "Slovenia"
++ add 1 team "Cyprus"
++ add 1 team "Yugoslavia"
++ add 1 team "Bulgaria"
++ add 1 team "Georgia"
++ add 1 team "Latvia"
++ add 1 team "Finland"
++ add 1 team "Belarus"
++ add 1 team "Moldova"
++ add 1 team "FYR of Macedonia"
++ add 1 team "Lithuania"
++ add 1 team "Republic Of Ireland"
++ add 1 team "Estonia"
++ add 1 team "Wales"
++ add 1 team "Armenia"
++ add 1 team "Iceland"
++ add 1 team "Northern Ireland"
++ add 1 team "Malta"
++ add 1 team "Faroe Islands"
++ add 1 team "Luxembourg"
++ add 1 team "Azerbaijan"
++ add 1 team "Liechtenstein"
++ add 1 team "Albania"
++ add 1 team "Bosnia-Herzegovina"
++ add 1 team "Andorra"
++ add 1 team "San Marino"
++ round 2 "Play Offs" 11-20
++ week 49 50
+* African Nations Cup Qualification
++ reputation 15
++ international
++ nations
++ round 1 "Group stage" 1-24
++ year 2003
++ offset 4
++ groups 5
++ week 11 15 19 23 27 31 35 39 43 47
++ exclude venue "African Nations Cup"
++ add 1 team "Cameroon"
++ add 1 team "Angola"
++ add 1 team "Zambia"
++ add 1 team "Togo"
++ add 1 team "Libya"
++ add 1 team "Nigeria"
++ add 1 team "Liberia"
++ add 1 team "Sudan"
++ add 1 team "Ghana"
++ add 1 team "Sierra Leone"
++ add 1 team "Senegal"
++ add 1 team "Morocco"
++ add 1 team "Egypt"
++ add 1 team "Algeria"
++ add 1 team "Namibia"
++ add 1 team "Tunisia"
++ add 1 team "Ivory Coast"
++ add 1 team "Democratic Republic of Congo"
++ add 1 team "Madagascar"
++ add 1 team "The Congo"
++ add 1 team "South Africa"
++ add 1 team "Zimbabwe"
++ add 1 team "Burkina Faso"
++ add 1 team "Malawi"
++ add 1 team "Gabon"
+* World Cup Qualification Europe
++ reputation 20
++ international
++ nations
++ round 1 "Group stage" 1-51
++ year 2001
++ offset 4
++ groups 9
+# 9 groups with 5 or 6 teams (10 match days)
++ week 10 13 16 19 22 28 31 34 37 40
++ exclude venue "World Cup"
++ add 1 team "Spain"
++ add 1 team "Italy"
++ add 1 team "Germany"
++ add 1 team "France"
++ add 1 team "England"
++ add 1 team "Holland"
++ add 1 team "Greece"
++ add 1 team "Portugal"
++ add 1 team "Turkey"
++ add 1 team "Russia"
++ add 1 team "Czech Republic"
++ add 1 team "Ukraine"
++ add 1 team "Norway"
++ add 1 team "Switzerland"
++ add 1 team "Scotland"
++ add 1 team "Austria"
++ add 1 team "Belgium"
++ add 1 team "Denmark"
++ add 1 team "Poland"
++ add 1 team "Romania"
++ add 1 team "Croatia"
++ add 1 team "Sweden"
++ add 1 team "Hungary"
++ add 1 team "Israel"
++ add 1 team "Slovakia"
++ add 1 team "Slovenia"
++ add 1 team "Cyprus"
++ add 1 team "Yugoslavia"
++ add 1 team "Bulgaria"
++ add 1 team "Georgia"
++ add 1 team "Latvia"
++ add 1 team "Finland"
++ add 1 team "Belarus"
++ add 1 team "Moldova"
++ add 1 team "FYR of Macedonia"
++ add 1 team "Lithuania"
++ add 1 team "Republic Of Ireland"
++ add 1 team "Estonia"
++ add 1 team "Wales"
++ add 1 team "Armenia"
++ add 1 team "Iceland"
++ add 1 team "Northern Ireland"
++ add 1 team "Malta"
++ add 1 team "Faroe Islands"
++ add 1 team "Luxembourg"
++ add 1 team "Azerbaijan"
++ add 1 team "Liechtenstein"
++ add 1 team "Albania"
++ add 1 team "Bosnia-Herzegovina"
++ add 1 team "Andorra"
++ add 1 team "San Marino"
++ round 2 "Euro Qual. Play Offs" 10-17
++ week 44 45
+* World Cup Qualification Africa
++ reputation 20
++ international
++ nations
++ round 1 "Group stage" 1-24
++ year 2001
++ offset 4
++ groups 6
+# 6 groups with 4 teams (10 match days)
++ week 10 16 19 28 34 37
++ exclude venue "World Cup"
++ add 1 team "Cameroon"
++ add 1 team "Angola"
++ add 1 team "Zambia"
++ add 1 team "Togo"
++ add 1 team "Libya"
++ add 1 team "Nigeria"
++ add 1 team "Liberia"
++ add 1 team "Sudan"
++ add 1 team "Ghana"
++ add 1 team "Sierra Leone"
++ add 1 team "Senegal"
++ add 1 team "Morocco"
++ add 1 team "Egypt"
++ add 1 team "Algeria"
++ add 1 team "Namibia"
++ add 1 team "Tunisia"
++ add 1 team "Ivory Coast"
++ add 1 team "Democratic Republic of Congo"
++ add 1 team "Madagascar"
++ add 1 team "The Congo"
++ add 1 team "South Africa"
++ add 1 team "Zimbabwe"
++ add 1 team "Burkina Faso"
++ add 1 team "Malawi"
++ add 1 team "Gabon"
+* World Cup Qualification South America
++ reputation 20
++ international
++ nations
++ round 1 "Group stage" 1-10
++ year 2001
++ offset 4
++ groups 2
++ week 11 14 17 20 23 29 32 35 38 41
++ exclude venue "World Cup"
++ add 1 team "Argentina"
++ add 1 team "Bolivia"
++ add 1 team "Brazil"
++ add 1 team "Chile"
++ add 1 team "Colombia"
++ add 1 team "Ecuador"
++ add 1 team "Paraguay"
++ add 1 team "Peru"
++ add 1 team "Uruguay"
++ add 1 team "Venezuela"
++ round 2 "Play Off" 5-6
++ week 44 45
+* World Cup Qualification Asia
++ reputation 20
++ international
++ nations
++ round 1 "Group stage" 1-12
++ year 2001
++ offset 4
++ groups 2
++ week 10 13 16 19 22 28 31 34 37 40
++ exclude venue "World Cup"
++ add 1 team "Iraq"
++ add 1 team "Thailand"
++ add 1 team "Saudi Arabia"
++ add 1 team "Bahrain"
++ add 1 team "Iran"
++ add 1 team "Qatar"
++ add 1 team "Oman"
++ add 1 team "United Arab Emirates"
++ add 1 team "Uzbekistan"
++ add 1 team "China"
++ add 1 team "South Korea"
++ add 1 team "Japan"
++ round 2 "Asian Play Off" 3-4
++ week 43 44
+* World Cup Qualification CONCACAF
++ reputation 20
++ international
++ nations
++ round 1 "CON-Qualification 1" 7-12
++ week 4 5
++ year 2001
++ offset 4
++ exclude venue "World Cup"
++ add 1 team "Costa Rica"
++ add 1 team "Mexico"
++ add 1 team "United States"
++ add 1 team "Honduras"
++ add 1 team "Jamaica"
++ add 1 team "Trinidad & Tobago"
++ add 1 team "El Salvador"
++ add 1 team "Canada"
++ add 1 team "Guatemala"
++ add 1 team "Nicaragua"
++ add 1 team "Panama"
++ add 1 team "Surinam"
++ round 2 "CON-Qualification 2" 4-9
++ week 7 8
++ round 3 "CON-Qual. Group stage" 1-6
++ groups 1
++ week 11 14 17 20 23 29 32 35 38 41
+* World Cup Qualification Oceania
++ reputation 20
++ international
++ nations
++ round 1 "Group stage" 1-5
++ year 2001
++ offset 4
++ exclude venue "World Cup"
++ add 1 team "Australia"
++ add 1 team "Fiji"
++ add 1 team "New Zealand"
++ add 1 team "Tahiti"
++ add 1 team "Solomon Islands"
++ groups 1
++ week 11 14 17 20 23 29 32 35 38 41
+* World Cup Qual. Intercontinental
++ reputation 20
++ international
++ nations
++ round 1 "Play Offs" 1-4
++ week 50 51
++ year 2001
++ offset 4
++ exclude venue "World Cup"
++ draw 49
++ add 1 rank 18 "World Cup Qualification Europe Group stage"
++ add 1 rank 5 "World Cup Qualification South America Play Off"
++ add 1 rank 4 "World Cup Qualification Asia Asian Play Off"
++ add 1 rank 1 "World Cup Qualification Oceania Group stage"
+* International match 1
++ international
++ nations
++ round 1 "Friendly" 1-114 14
++ year 2002
++ offset 2
++ add 114 from everywhere
+* International match 2
++ international
++ nations
++ round 1 "Friendly" 1-114 22
++ year 2002
++ offset 2
++ add 114 from everywhere
+* International match 3
++ international
++ nations
++ round 1 "Friendly" 1-114 34
++ year 2002
++ offset 2
++ add 114 from everywhere
+* International match 4
++ international
++ nations
++ round 1 "Friendly" 1-114 42
++ year 2002
++ offset 2
++ add 114 from everywhere
+* International match 5
++ international
++ nations
++ round 1 "Friendly" 1-114 46
++ year 2002
++ offset 2
++ add 114 from everywhere

@@ -1,0 +1,6 @@
+! name "Albania"
+! 1 shirt red
+! 2 shirt white
+! 3 shirt white
+! 3 shorts red
+! appear 1 6 7

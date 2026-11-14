@@ -1,0 +1,6 @@
+! name "Mexico"
+! 1 shirt green
+! 1 shorts white
+! 1 socks red
+! 2 shirt white
+! appear 0 1 6 0

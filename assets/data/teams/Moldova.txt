@@ -1,0 +1,8 @@
+! name "Moldova"
+! 1 shirt blue
+! 1 stripes yellow
+! 1 shorts red
+! 1 socks yellow
+! 2 shirt yellow
+! 3 shirt blue
+! appear 1 9 9

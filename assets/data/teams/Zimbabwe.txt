@@ -1,0 +1,11 @@
+! name "Zimbabwe"
+! 1 shirt green
+! 1 shorts yellow
+! 1 socks yellow
+! 2 shirt yellow
+! 2 socks green
+! 3 shirt white
+! 3 shorts red
+! 3 socks yellow
+! appear 0 0 0 1
+

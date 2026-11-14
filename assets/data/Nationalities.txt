@@ -1,0 +1,117 @@
+# Country identity aggregation and outward presentation.
+#
+# A section does not make a country playable. Only !Country or
+# !AdditionalCountry in a selected League/international* dataset activates
+# national-team, calendar and competition behavior. Paired files under
+# Data/Names merely allow an otherwise inactive country to represent imported
+# player nationalities as a reference country.
+#
+# Repeating alias is intentional. Matching is exact apart from surrounding
+# whitespace and case; no fuzzy geographical rules are hidden in the code.
+# Repeating rewrite replaces that standalone phrase with display only in
+# user-visible country and competition labels. It never renames source files,
+# internal references, clubs or players.
+
+[netherlands]
+display = Netherlands
+names = Holland
+alias = Netherlands
+alias = The Netherlands
+alias = Holland
+rewrite = The Netherlands
+rewrite = Holland
+
+[china]
+display = China
+names = China PR
+alias = China
+alias = China PR
+
+[saint-lucia]
+display = Saint Lucia
+names = Saint Lucia
+alias = Saint Lucia
+alias = St. Lucia
+
+[sao-tome-and-principe]
+display = São Tomé & Príncipe
+names = São Tomé & Principe
+alias = Sao Tome & Principe
+alias = São Tomé & Principe
+alias = São Tomé & Príncipe
+
+[antigua-and-barbuda]
+display = Antigua and Barbuda
+names = Antigua & Barbuda
+alias = Antigua and Barbuda
+alias = Antigua & Barbuda
+
+[cape-verde]
+display = Cape Verde
+names = Cape Verde Islands
+alias = Cape Verde
+alias = Cape Verde Islands
+
+[democratic-republic-of-the-congo]
+display = Democratic Republic of the Congo
+names = Democratic Republic of Congo
+alias = DR Congo
+alias = Democratic Republic of Congo
+alias = Democratic Republic of the Congo
+
+[gambia]
+display = The Gambia
+names = The Gambia
+alias = Gambia
+alias = The Gambia
+
+[ireland]
+display = Republic of Ireland
+names = Republic of Ireland
+alias = Ireland
+alias = Republic of Ireland
+
+[republic-of-the-congo]
+display = Republic of the Congo
+names = The Congo
+alias = Republic of Congo
+alias = Republic of the Congo
+alias = The Congo
+
+[suriname]
+display = Suriname
+names = Surinam
+alias = Suriname
+alias = Surinam
+
+[turkey]
+display = Turkey
+names = Turkey
+alias = Turkey
+alias = Turkiye
+alias = Türkiye
+
+[gibraltar]
+display = Gibraltar
+names = Gibraltar
+alias = Gibraltar
+
+[guernsey]
+display = Guernsey
+names = Guernsey
+alias = Guernsey
+
+[kosovo]
+display = Kosovo
+names = Kosovo
+alias = Kosovo
+
+[montenegro]
+display = Montenegro
+names = Montenegro
+alias = Montenegro
+
+[serbia]
+display = Serbia
+names = Serbia
+alias = Serbia

@@ -1,0 +1,8 @@
+! name "Cameroon"
+! 1 shirt green
+! 1 shorts red
+! 1 socks yellow
+! 2 shirt yellow
+! 2 shorts green
+! 2 socks red
+! appear 0 0 0 1

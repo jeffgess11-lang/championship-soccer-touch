@@ -1,0 +1,9 @@
+! name "Ivory Coast"
+! 1 shirt orange
+! 1 shorts white
+! 1 socks green
+! 2 shirt white
+! 2 socks orange
+! 3 shirt green
+! 3 socks orange
+! appear 0 0 0 1

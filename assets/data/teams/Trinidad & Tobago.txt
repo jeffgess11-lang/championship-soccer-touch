@@ -1,0 +1,7 @@
+! name "Trinidad & Tobago"
+! 1 shirt red
+! 1 shorts black
+! 2 shirt yellow
+! 3 shirt yellow
+! 3 shorts red
+! appear 0 0 0 1

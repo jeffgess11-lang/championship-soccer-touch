@@ -1,0 +1,13 @@
+! name "Spain"
+! 1 shirt red
+! 1 shorts blue
+! 1 socks yellow
+! 2 shirt black
+! 2 sleeves blue
+! 2 shorts blue
+! 2 socks blue
+! 3 shirt red
+! 3 sleeves black
+! 3 shorts black
+! 3 socks black
+! appear 1 3 4 0

@@ -1,0 +1,11 @@
+! name "Senegal"
+! 1 shirt green
+! 1 shorts yellow
+! 1 socks red
+! 2 shirt yellow
+! 2 shorts green
+! 2 socks red
+! 3 shirt red
+! 3 shorts yellow
+! 3 socks green
+! appear 0 0 0 1

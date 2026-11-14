@@ -1,0 +1,7 @@
+! name "Tahiti"
+! 1 shirt red
+! 1 shorts white
+! 2 shirt white
+! 2 shorts red
+! 3 shirt red
+! appear 0 1 8 0

@@ -1,0 +1,11 @@
+! name "Russia"
+! 1 shirt white
+! 1 shorts blue
+! 1 socks red
+! 2 shirt blue
+! 2 shorts red
+! 2 socks white
+! 3 shirt red
+! 3 shorts white
+! 3 socks blue
+! appear 1 1 1 0

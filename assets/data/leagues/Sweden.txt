@@ -1,0 +1,33 @@
+! Country "Sweden"
+! Names "data/names/Sweden_1st.txt" "data/names/Sweden_2nd.txt"
+* Sweden Cup
++ Country "Sweden"
++ reputation 15
++ round 1 "Round 1" 1-128 8
++ draw 2
++ add 128 from "Sweden"
++ round 2 "Round 2" 1-64 12
++ round 3 "Round 3" 1-32 16
++ round 4 "Round 4" 1-16 23
++ round 5 "Quarter Final" 1-8 30
++ round 6 "Semi Final" 1-4 38
++ round 7 "Final" 1-2 47
+: Premiership Sweden
++ division 1
++ promotions 0
++ relegations 0
++ reputation 13
+Djurgårdans IF
+Malme FF
+Örgryte IS
+Helsingbergs IF
+AIK
+Halmstud BK
+Örebro SK
+IFK Sundsvull
+Hammurby IF
+IF Elfsberg
+Landskronu BOIS
+IFK Goteberg
+IFK Norrkopong
+Kalmur FF

@@ -1,0 +1,13 @@
+! name "Sudan"
+! 1 shirt blue
+! 1 stripes yellow
+! 1 shorts white
+! 1 socks white
+! 2 shirt green
+! 2 shorts white
+! 2 socks white
+! 3 shirt yellow
+! 3 stripes blue
+! 3 shorts blue
+! 3 socks yellow
+! appear 0 0 0 1

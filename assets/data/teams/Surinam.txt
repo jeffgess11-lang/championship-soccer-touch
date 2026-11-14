@@ -1,0 +1,10 @@
+! name "Surinam"
+! 1 shirt red
+! 1 shorts green
+! 1 socks white
+! 2 shirt green
+! 2 shorts red
+! 2 socks white
+! 3 shirt red
+! 3 socks green
+! appear 0 0 0 1

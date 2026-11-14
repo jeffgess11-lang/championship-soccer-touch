@@ -1,0 +1,9 @@
+! name "Sierra Leone"
+! 1 shirt green
+! 1 shorts white
+! 1 socks blue
+! 2 shirt blue
+! 2 shorts white
+! 2 socks green
+! 3 shirt green
+! appear 0 0 0 1

@@ -1,0 +1,14 @@
+! name "Panama"
+! 1 shirt white
+! 1 stripes red
+! 1 shorts blue
+! 1 socks red
+! 2 shirt blue
+! 2 stripes white
+! 2 shorts red
+! 2 socks blue
+! 3 shirt red
+! 3 stripes blue
+! 3 shorts white
+! 3 socks red
+! appear 1 4 5 8

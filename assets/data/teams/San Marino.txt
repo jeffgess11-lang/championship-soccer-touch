@@ -1,0 +1,5 @@
+! name "San Marino"
+! 1 shirt lightblue
+! 2 shirt white
+! 3 shirt blue
+! appear 1 3 5 0

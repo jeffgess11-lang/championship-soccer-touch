@@ -1,0 +1,1795 @@
+# All menus
+0000 : Back
+0001 : Back to main menu
+0002 : Start game
+# Select
+0003 : All
+0004 : None
+# Load & Save
+0005 : Loading $1
+0006 : Saving $1
+0007 : Create
+0008 : Continue
+0009 : unknown
+5820 : National teams
+5821 : Top clubs
+5823 : Set start year
+5824 : Bye
+5822 : No selectable teams are available.
+0010 : Apply
+0011 : Yes
+# menus
+0100 : Offers
+0101 : Youth team
+0102 : Edit players and controls
+0103 : Finances
+0104 : Player search
+0105 : Calendar
+0106 : Team information
+# Short
+0107 : Information
+# Filerequester
+# Default saves-dir
+0200 : Saves
+0201 : Root
+0202 : Parent
+0203 : Cancel
+0204 : Load
+0205 : Save
+0206 : View replay
+0207 : Load replay
+0208 : Replay cannot be viewed
+# Replays Directory
+0209 : Replays
+# File
+0210 : Do you really want to overwrite the save game?
+0211 : Overwrite
+0212 : Default
+# Positionen
+0300 : goalkeeper
+0301 : sweeper
+0302 : defender
+0303 : defensive midfielder
+0304 : midfielder
+0305 : offensive midfielder
+0306 : forward
+0310 : left
+0311 : central
+0312 : right
+0320 : Player-manager (team)
+0321 : Manager
+0322 : inactive
+# Wochentage
+0400 : Monday
+0401 : Tuesday
+0402 : Wednesday
+0403 : Thursday
+0404 : Friday
+0405 : Saturday
+0406 : Sunday
+# Wochentage abgekürzt (2-3 Buchstaben)
+0410 : Mon
+0411 : Tue
+0412 : Wed
+0413 : Thu
+0414 : Fri
+0415 : Sat
+0416 : Sun
+# Meldungen
+0500 : Please wait!
+# cup draw f.e. "English cup draw"
+0501 : $1 draw
+# Keyfile
+0550 : This version is restricted to 20 league match days per career
+0551 : Not available in demo - you'll find out more about the game on $1
+0552 : This version is restricted to one season
+# Retail
+0560 : The demo version is restricted to 20 league match days per career
+# Spielbeginn
+0600 : Simulate match
+0601 : Warning! You have been selected in the first team. Do you really want to simulate the match?
+# Spiel erstellen
+0900 : Creating teams
+0901 : Creating nations
+0902 : Creating fixtures
+0903 : Finishing database
+0910 : Error while creating game
+0911 : No free match day for $1
+0920 : Cannot load database $1
+0921 : Loading database $1
+# Main menu
+1000 : Please choose:
+1001 : Quick game
+1002 : Start a new career
+1003 : Load game
+1004 : Save game
+1005 : Options
+1006 : View replays
+1007 : Team Editor
+1008 : About $1
+1009 : Continue game
+1010 : Quit $1
+# Team database
+1040 : Choose team
+# Select datasets
+1050 : Select datasets
+1051 : Datasets
+1052 : Countries
+1053 : Leagues
+1054 : Teams
+1060 : Number of divisions
+1070 : Quick start
+1071 : If you want to use the quick start a pre-created database will be used
+1072 : This means the league settings have no influence on the career creation
+1073 : But you don't have to wait until the career is created
+1074 : Continue?
+1080 : Not possible to start the career
+1081 : You have not selected any leagues
+1082 : You have selected too many data sets/leagues
+# Schnelles Spiel
+1090 : Friendly
+1091 : Tournament
+# Tabelle
+1100 : International
+1101 : Continental
+1102 : League tables
+1103 : League results
+1104 : Player toplists
+1105 : Cups
+1106 : Found a custom team in this division
+1107 : Table
+1108 : Results
+1109 : Previous group
+1110 : Next group
+1111 : Previous match day
+1112 : Next match day
+1113 : Previous round
+1114 : Next round
+1115 : only players of your own team
+# Letters for the table
+# Number of matches played
+1120 : Rank
+1121 : P
+1122 : W
+1123 : D
+1124 : L
+# goal difference
+1125 : GD
+# goals for
+1126 : GF
+# goals against
+1127 : GA
+# points
+1128 : PTS
+# Results
+1130 : Match day $1 of $2
+# no opponent at a match day
+1131 : no match
+# against / vs in the result list
+1132 : vs
+# after extra-time
+1133 : AET
+1134 : A.P
+# player list categories
+1140 : Goals
+1141 : Assists
+1142 : Matches played
+1143 : Average performance
+1144 : Man of the match
+1145 : Disciplinary points
+1150 : Match day
+# Spiel ansehen
+1160 : view
+# Skills
+1200 : speed
+1201 : spd
+1202 : shot power
+1203 : shp
+1204 : shot control
+1205 : shc
+1206 : stamina
+1207 : sta
+1208 : dribbling
+1209 : dri
+1210 : jumping
+1211 : jmp
+1212 : anticipation
+1213 : ant
+1214 : agility
+1215 : agi
+1216 : tackling
+1217 : tck
+1218 : heading
+1219 : hea
+1220 : ball control
+1221 : bco
+1222 : handling
+1223 : han
+1224 : reflexes
+1225 : ref
+1226 : aggression
+1227 : agg
+# Selection / Squad
+# Short
+# Status
+1300 : Sta
+# Position
+1301 : Pos
+# Age
+1302 : Age
+# Average Rating
+1303 : AvR
+# goals
+1304 : gls
+# matches
+1305 : mat
+# Value
+1306 : val
+# Expiring or expired contract
+1350 : ctr
+# Unhappy
+1351 : unh
+# Substitution / Selection
+1400 : substitutions:
+1401 : $1 of $2
+# Reroll
+1402 : re-roll
+1403 : First name
+1404 : Second name
+1405 : Position
+1406 : Age
+1407 : $1 years
+1408 : Nationality
+1409 : no caps
+# one national team match
+1410 : $1 cap
+# x caps (national team matches)
+1411 : $1 caps
+# one goal in caps
+1412 : $1 goal
+# xx goals in caps
+1413 : $1 goals
+# national team (nation unknown)
+1414 : unknown
+1415 : Team
+1416 : Statistics
+1417 : Contract
+1418 : Transfer
+1419 : Training settings
+# player information
+# player value
+1420 : Value
+1421 : Contract
+1422 : no salary
+# salary / wage per month
+1423 : $1 per month
+# expired contract
+1424 : expired
+# remaining contract
+1425 : $1 year(s) remaining
+# no contract anymore
+1426 : no contract
+# bans
+1427 : Bans
+1428 : league
+1429 : domestic cup
+1430 : national team
+1431 : international clubs
+# banned for one match
+1432 : $1 match banned
+# banned for x matches
+1433 : $1 matches banned
+# no bans
+1434 : none
+1435 : Happiness
+1436 : Interested teams
+# give free transfer
+1440 : Sack
+1441 : The player will get a compensation of $1 for the remaining $2 months
+1442 : The player will get no compensation and can be sacked for free
+1443 : Do you really want to sack the player?
+# extend contract
+1444 : The player would like to renew his contract for another year
+1445 : The player would like to renew his contract for another $1 years
+1446 : The player doesn't want to renew his contract
+1447 : He is happy with his current wage
+1448 : He asks for a wage of $1
+1449 : He asks for a raise of his wage to $1
+# Player happiness
+1450 : He is looking for a new team
+1451 : He is satisfied at his current team
+1452 : He is happy at his current team
+1453 : He is happy to play in a top team
+1454 : He is happy to play in a good team
+1455 : He has lost his self-confidence
+1456 : He is glad that his team is playing well
+1457 : He thinks the club has to improve the squad
+1458 : He is very unhappy with the performance of some teammates
+1459 : He thinks his teammates are playing for a different team
+1460 : He is glad to be in a top team
+1461 : He is unhappy
+1462 : He is disappointed not to be given his chance
+1463 : He is shocked not to be given his chance
+1464 : He is looking for a new team
+1465 : The player is fighting for his place in the first team
+1466 : He doesn't understand why he's not a first team regular
+1467 : The player is unhappy with his wage
+1480 : Bans&fitness
+1481 : fit for the match
+1482 : injured for $1 week(s)
+1483 : Fitness
+1488 : Career income
+1489 : only known for human players
+# National team
+1490 : Nominate
+1491 : Remove from national team
+1492 : Nomination not possible
+1493 : The national team already has 26 players!
+# Answer offers
+1497 : Extend contract
+1498 : Only raise wage
+1499 : Raise wage
+# An offer remaining for x days
+1500 : $1 days remaining
+# Youth team
+1550 : move to the first squad
+# best ability
+1551 : main ability
+# Player options
+1600 : Player options
+1601 : Manager
+1602 : Player
+1603 : Player-manager
+1604 : new
+1605 : edit
+1606 : delete
+1620 : Hair colour
+1621 : blond
+1622 : light brown
+1623 : dark brown
+1624 : Skin
+1625 : white
+1626 : dark
+1630 : game mode
+1631 : career
+# No nation selected
+1632 : none selected
+# No team selected
+1633 : none selected
+# Delete nationality
+1634 : none
+# Delete team
+1635 : no team
+# choose team or nationality
+1636 : select
+1637 : Player (single player career)
+1638 : Player-manager (single player)
+1639 : Player-manager (team mode)
+1640 : Manager
+1641 : Realistic youth player career
+1642 : Free career
+# select nationality
+1643 : Select nationality
+1644 : Controls
+# assign controls
+1645 : assign
+# Also play the national team
+1646 : Play national team
+1647 : Press fire button 1 (no other button!) of the gamepad that you want to use for this player; press shift or ctrl for keyboard; esc to cancel
+1648 : Ability
+1649 : Potential
+1650 : Reputation
+1651 : Difficulty
+# dynamic potential ??
+1652 : dynamic
+# Reputation = ability
+1653 : same as ability
+# Levels
+1654 : very easy
+1655 : easy
+1656 : normal
+1657 : hard
+1658 : very hard
+1659 : extremely difficult
+1660 : nightmare
+# Difficulty only if selected dynamic potential
+1661 : only with dyn. potential
+# Select ..
+1675 : Select tournament
+1676 : Select this team
+# Delete
+1680 : Retire
+1681 : Do you really want to retire?
+1682 : Would you like to retire or do you want the computer to control the player again?
+1683 : Assign the team to the computer again?
+1690 : Retire
+1691 : Assign to computer
+# Default player name
+1692 : Player
+# Create new player (1693 = title)
+1693 : New player
+# to control
+1694 : Control
+1695 : Assign to computer
+1696 : Free player creation
+# Control devices
+1697 : Control
+1698 : 1st control
+1699 : 2nd control
+# Found your own team
+1700 : Team name
+1701 : Division
+1702 : Starting funds
+1703 : Register
+# Finanzen
+1750 : monthly
+1751 : yearly
+1752 : current month
+1753 : last month
+1754 : current year
+1755 : last year
+1756 : Income
+1757 : Expenditure
+1758 : Attendance
+1759 : TV rights
+1760 : Wages
+1761 : Sponsors
+1762 : Interest
+1763 : Transfers
+1764 : Youth
+1765 : Merchandising
+1766 : Other
+1767 : Profit/loss
+1768 : Account
+1769 : remaining transfer cash
+1770 : Calculated attendance average
+1771 : Calculated attendance income
+# Player search
+1800 : define other filters
+1801 : only interested players
+1802 : only affordable players
+1803 : only scouted players
+1804 : only human players
+1805 : Name
+1807 : page $1 of $2
+1808 : free
+1809 : define filter
+1810 : reset filter
+1811 : Name
+1812 : between
+1813 : and
+# left, central, right
+1814 : Side
+# Calendar
+1850 : Week
+# Team info
+1900 : Nation
+1901 : League
+1902 : non league
+# Finances
+1903 : Finances
+1904 : bankrupt
+1905 : deep in debt
+1906 : in debt
+1907 : light debts
+1908 : secure
+1909 : good
+1910 : very good
+1911 : outstanding
+# Number of players in the team
+1912 : Squad
+1913 : $1 players
+1914 : Average age
+1915 : Most expensive player
+1916 : Mood of the fans
+1917 : outraged
+1918 : angry
+1919 : displeased
+1920 : disappointed
+1921 : undetermined
+1922 : optimistic
+1923 : confident
+1924 : in a good temper
+1925 : enthusiastic
+1926 : Confidence
+1927 : none
+1928 : very low
+1929 : low
+1930 : average
+1931 : above-average
+1932 : good
+1933 : very good
+1934 : great
+1935 : Team morale
+1936 : awful
+1937 : bad
+1938 : acceptable
+1939 : fine
+1940 : outstanding
+# player info statistics
+2000 : Current season
+2001 : In the career
+# player came from team ...
+2010 : Previous team
+2011 : Playing in team since
+2012 : own reserves
+# unknown where he came from
+2013 : unknown
+# Playing for the team since
+2014 : unknown
+2015 : current season
+2016 : last year
+# more than one season
+2017 : $1 years
+# Buy a player
+# The team ...
+2020 : $1 cannot afford the player
+2021 : The player can be transferred for free to $1
+2022 : $1 can buy the player for $2
+2023 : The player is a top transfer for your team
+2024 : He can become a valuable player for your team
+2025 : The player can become a useful transfer for your team
+2026 : The transfer seems to be realistic
+2027 : There are doubts that the transfer makes sense for your team
+2028 : There is no space left in your team!
+2029 : Offer $1
+2030 : $1 offer $2 for $3
+2031 : The player will get a monthly wage of $1 and a contract running until the end of the season
+2032 : The player will get a monthly wage of $1 and a contract length of $2 years
+2033 : Complete transfer
+2034 : The player is not interested in the transfer
+# Match statistics
+2100 : Goals
+2101 : Gls
+2102 : Assists
+2103 : Ass
+2104 : Shots saved by the goalie
+2105 : Sav
+2106 : Shots missing the goal
+2107 : Mis
+2108 : Shots hitting the woodwork
+2109 : Wwk
+2110 : Passes (complete)
+2111 : PCo
+2112 : Passes (incomplete)
+2113 : PIC
+2114 : Pass Interceptions
+2115 : PIn
+2116 : Tackles won
+2117 : TkW
+2118 : Tackles lost
+2119 : TkL
+2120 : Number of ball contacts
+2121 : BCo
+2122 : Possession
+2123 : Pos
+2124 : Tactical evaluation (keeping your position)
+2125 : Tac
+2126 : Rating
+2127 : Rat
+2150 : Man of the match
+2151 : Attendance
+2152 : Form of the home team
+2153 : Form of the visitor
+# Control devices
+2900 : Computer controlled
+2901 : Keyboard
+# News
+3000 : $1 defeats $2 $3:$4
+3010 : $1 and $2 draw $3:$4
+3020 : $1 loses $3:$4 against $2
+3030 : $4 have signed $1 from $3 for $2
+3040 : $3 have signed $1 from $2 on a free transfer
+3050 : $2 $3 from $4 has signed for $1 for a fee of $5
+3051 : He has signed a $1 years contract
+3052 : The contract runs until the end of the current season
+3053 : $1 should earn around $2 during that period
+3054 : $1 had also previously played for $2
+3055 : With that transfer $1 have signed a big-name player
+3056 : The transfer is a great coup for $1
+3057 : The player is considered a hot prospect for the future.
+3058 : The player is considered a good prospect for the future.
+3059 : He has played in $1 match(es) for $2
+3060 : $2 $3 from $4 has signed for $1.
+3061 : It is a free transfer
+3064 : $1 signs $2
+# only the name known
+3065 : $1 has been transferred.
+# (3090) (3070-3082) ...
+3070 : goalkeeper
+3071 : sweeper
+3072 : left defender
+3073 : right defender
+3074 : central defender
+3075 : defensive midfielder
+3076 : central midfielder
+3077 : attacking midfielder
+3078 : left winger
+3079 : right winger
+3080 : striker
+3081 : forward
+3082 : player
+3090 : The $1 year old
+3100 : $1 offers a $2 years contract with a wage of $3
+3101 : $1 offers a contract until the end of the season with a wage of $2
+3110 : The transfer will cost $1
+3111 : It will be a free transfer
+3120 : Offer from $1
+3150 : Confirm transfer
+3151 : Transfer to $1 complete!
+3152 : Transfer not possible
+3153 : There is no space left in the team!
+3200 : Training report for week $1
+3201 : $1 players have improved in training
+3202 : $1 players have regressed during the week
+3203 : $1 improves $2
+3204 : $1 regress $2
+3205 : Training report
+3206 : One player has improved in training
+3207 : One player has regressed during the week
+3250 : Offer for $1
+3251 : $1 offers $2 for $3
+3252 : $1 is interested in signing $2 on a free transfer
+3253 : Would you like to accept the offer?
+3260 : Decline
+3261 : Squad
+3262 : Player information
+3263 : Accept
+3265 : The player contract has expired. You'll have to accept the offer.
+3270 : Transfer
+3271 : $1 accepts the offer from $2
+3272 : $1 declines the offer from $2
+3273 : He will cost $1
+3274 : It will be a free transfer
+3300 : $1 get $2 from the sponsors for the coming season
+3301 : $1 get $2 for the T.V. rights
+# Offer for human player
+3350 : Offer for $1
+3351 : $1 offers $2 a new $3 years contract with a monthly wage of $4
+3352 : $1 offers $2 a new contract until the end of the season with a monthly wage of $3
+3353 : $1 offers $2 a raise of his salary up to $3 per month
+3400 : Player of the year
+3401 : Goalkeeper of the year
+3402 : Defender of the year
+3403 : Midfielder of the year
+3404 : Striker of the year
+3405 : Topscorers
+3406 : goals
+3407 : Player of the year in $1
+# main menu
+4000 : next unread
+4001 : details
+4010 : Squad and tactics
+4011 : My player
+4012 : Offers
+4013 : Youth players
+4014 : Practice
+4015 : Team information
+4016 : Finances
+4017 : Calendar
+4018 : Player options
+4020 : League tables
+4021 : League results
+4022 : Cups and tournaments
+4023 : Topscorers
+4024 : Player search
+4050 : Watch match
+4051 : Play match
+4052 : Result only
+4053 : Continue to the next player
+4054 : Continue to the next day
+4055 : Continue to the next event
+4056 : Main menu
+4060 : no team
+4061 : Season
+4062 : Week
+# Goal in minute $1
+4070 : $1'
+4071 : Final result
+4072 : Attendance
+# Options
+4200 : Sound
+4201 : Supporter sounds
+4202 : Use only fantasy players in new careers
+4203 : Control goalie in team-mode
+4204 : Transfer offers for human-controlled players
+4205 : Transfer offers for other players
+4206 : Save compressed
+4207 : Update METAR weather data before every match
+4208 : Select language
+4209 : Game Speed
+4210 : $1/s
+# 4250 : Achtung! Benutzen Sie diese Option nur mit Standleitung oder Flatrate zum Internet. Andernfalls kann der Verbindungsaufbau zum Internet Telefonkosten verursachen.
+4250 : Warning! This option needs a permanent connection to the Internet or it could cause important phone costs. If you are not sure leave the option turned off.
+4300 : Extra time
+4301 : Golden goal
+4302 : Penalty (if level)
+4303 : Home
+4304 : Visitor
+# Kram
+4400 : Error
+4401 : Cannot save game (no space left on hard-disk ?)
+# Match
+5000 : Sub: $1 (off)
+5001 : Sub: $1 (on)
+5010 : $1 is slightly hurt
+5011 : $1 is hurt
+5012 : $1 is slightly injured
+5013 : $1 is injured
+5014 : $1 is badly injured and should be substituted
+5015 : $1 has picked a serious injury and should be taken off
+5020 : Sub
+# Tormeldung
+5030 : GOAL!!
+5031 : Goalscorer:
+5032 : Assist:
+# Eigentor
+5033 : (og)
+5040 : Yellow card for $1
+5041 : Second yellow card for $1
+5042 : Red card for $1
+# Ausrichtung
+5050 : Men behind ball
+5051 : MBB
+5052 : Defensive
+5053 : DEF
+5054 : Counter Attack
+5055 : COU
+5056 : Cautious
+5057 : CAU
+5058 : Controlled Offensive
+5059 : COF
+5060 : Offensive
+5061 : OFF
+5062 : All out attack
+5063 : AOA
+5090 : Offside
+# Replays
+5100 : Replay saved as $1
+5101 : Replay $1 cannot be compressed
+5102 : Replay $1 cannot be saved
+5103 : Replay cannot be saved
+# Quit game
+5200 : Are you sure that you want to quit the match? (y=yes/n=no)
+5201 : Game paused. (Press 'p' to continue)
+# Advanced options
+5300 : Advanced options
+5310 : Match duration
+5311 : Between 2x 2:30 and 2x 45:00 minutes at 60 physics updates/s
+5312 : Player speed in possession
+5313 : Increasing leads to more chances and goals
+5314 : Influence of speed and stamina
+5315 : Less influence leads to more even teams (recommended for longer match durations)
+5316 : Shot power
+5317 : Reducing shot power leads to fewer goals (recommended only for very long matches)
+5318 : Goalie boost
+5319 : Increases the handling and jumping of the goalkeeper (leads to less goals)
+5320 : Reflexes boost
+5321 : Players react faster (goalies as well)
+5322 : Offers for human-controlled players
+5323 : Increases how often human-controlled players receive offers
+# Defaults
+5330 : Realistic
+5331 : Increased by $1% 
+5332 : Reduced by $1%
+5340 : Choose default settings
+# Unregistered
+5400 : This feature is only available in the registered version.
+5410 : This feature is not available in the demo version.
+# Instructions
+5500 : The controls for the teams can be configured in the squad screen.
+# New messages
+5600 : $1 releases $2 as a free agent.
+# Leave club as a free agent
+5650 : Leave club
+5651 : You are out of contract
+5652 : Are you sure that you want to leave the club as a free agent?
+5660 : Former players
+
+# New-human creation warnings
+5700 : Check player settings
+5701 : No nationality selected
+5702 : No nationality has been assigned to this player.
+5703 : No club selected
+5704 : This player will start the career without a club.
+5705 : Continue anyway
+
+# Control-assignment conflict warning
+5710 : Control already assigned
+5711 : This input device is already assigned to another team or player.
+5712 : Input device
+5713 : Previous assignments
+5714 : New assignment
+5715 : Keep all
+5716 : Use new only
+5717 : $1 of $2 previous assignments are shown.
+5718 : Keep all preserves every assignment. Use new only removes the previous assignments for this device.
+5719 : If a team and an individual player use the same device in one match, team control takes priority.
+5720 : Team
+
+# Mandatory league selection
+5730 : No league selected
+5731 : Select at least one league to create a functional career. Without a selected league, no league matches can be played.
+
+# Product text localization
+5740 : Network game
+5741 : AI manipulation
+5742 : Demonstration version
+5743 : The key file is restricted.
+5744 : This version is unlimited.
+5745 : You are a beta tester.
+5746 : This is the unregistered version.
+5747 : Programming
+5748 : Homepage
+5749 : Thanks for supporting the development (in alphabetical order):
+5750 : Published by
+5751 : All rights reserved.
+5752 : Disclaimer
+5753 : Accept
+5754 : Decline
+5755 : Game loaded successfully.
+5756 : The save game may be corrupt. Was it created by another version?
+5761 : HOME: $1
+5762 : AWAY: $1
+5763 : (S)erver or (C)lient?
+5764 : Peer IP address (format xxx.xxx.xxx.xxx): $1
+5765 : Desired buffer size in bytes (e.g. 512): $1
+5766 : Server could not be started. Is the port blocked?
+5767 : Server started.
+5768 : Entered address: $1
+5769 : Connection established.
+5770 : Waiting for connection.
+5771 : Preparing match start.
+5772 : Ready for match.
+5773 : Press any key.
+5774 : Waiting for match to start.
+5775 : Escape: Cancel
+5776 : Incoming connection!
+5777 : Waiting for incoming connection.
+5778 : Clearing network buffers.
+5779 : Sending data for the network game.
+5780 : Waiting for confirmation to start the match.
+
+# End-user errors
+5790 : Error
+5791 : Championship Soccer could not continue because an error occurred.
+5792 : Technical details were written to Logs/GraphicalErrors.log.
+5793 : The file $1 in the key file directory
+5794 : contains an invalid or corrupt key file.
+
+# Save storage and diagnostics
+5800 : Save folder
+5801 : Local saves
+5802 : My Documents saves
+5803 : Filename
+5804 : Please enter a filename in the yellow field.
+5805 : The game could not be saved. Please try again or choose another folder.
+5806 : The selected folder cannot be written to. Please choose another folder.
+5807 : There is not enough free disk space to save the game.
+5808 : The save file is being used by another program. Close it and try again.
+5809 : The selected save path is unavailable or invalid. Please choose another folder.
+5810 : Autosave failed. Your current progress is not protected by an automatic save. Please save the game manually.
+5811 : The recovery save failed. Your new career is not yet protected by a recovery save. Please save the game manually.
+5812 : The game was saved in a different folder: $1
+5813 : The save file could not be read. It may be missing or you may not have permission to access it.
+5830 : Abort the match?
+5831 : Should the current score $1:$2 count as the result?
+5832 : Y/Z: Yes, accept the result
+5833 : N: No, discard the attempt and replay the match
+5834 : Escape: Continue playing
+5835 : Kickoff has not taken place. Aborting will leave the match unplayed.
+5836 : Y/Z: Yes, abort the match
+5837 : N/Escape: No, continue playing
+5838 : Buffer fill level: $1
+5839 : Reduction method: $1
+
+# Controller resilience
+5840 : Controller assignment
+5841 : No controller is detected. Turn on or connect a controller; it will be detected automatically.
+5842 : Release the controller buttons to begin.
+5843 : Press and hold the primary action button on the controller you want to use.
+5844 : Controller $1 detected: $2. Keep holding ($3%).
+5845 : Shift or Ctrl selects the keyboard. Enter confirms a held input. Esc, Backspace, right-click or the controller Back button cancels.
+5846 : Controller $1 disconnected. Reconnect it, or press Esc to leave the match.
+5847 : Controller $1 reconnected. Press P or Start to continue.
+
+# Dataset validation
+5850 : Database check - Fatal error
+5851 : The selected database could not be initialized safely. No data was applied. See Logs/DataImportDiagnostics.log.
+5852 : The selected database exceeds a supported limit. No data was applied. Reduce the data or see Logs/DataImportDiagnostics.log.
+5853 : Database issues - Warning
+5854 : Severity: Warning. Warnings: $1. See Logs/DataImportDiagnostics.log. Continue anyway?
+5855 : Continue
+5856 : Database issues - Error
+5857 : Severity: Error. Errors: $1. Warnings: $2. See Logs/DataImportDiagnostics.log. Continue anyway?
+5860 : Save repaired
+5861 : The save contained inconsistent league data. Safe assignments and result links were repaired; rounds that could not be reconstructed unambiguously were left unchanged and omitted. The career can continue. Please save it under a new name.
+5862 : Career could not continue
+5863 : The career could not continue safely. The current operation was rolled back to the last safe point. You have been returned to the manager screen. Try again or load another save.
+
+# Player-career offer forecast
+5870 : The manager currently sees him as $1.
+5871 : $1
+5872 : With $3 league matches left, around $1 to $2 appearances look realistic.
+5873 : He could start around $1 to $2 of those matches.
+5874 : In his position, he would mainly have to compete with $1.
+5875 : $1
+5876 : This assessment assumes that the full squad is available.
+5877 : He will have to earn his actual role in training and in matches.
+5878 : There are no league matches left this season.
+5879 : The club cannot yet offer him a clear sporting perspective.
+5880 : an indispensable star player
+5881 : a first-team regular
+5882 : a rotation player
+5883 : a substitute
+5884 : an emergency option
+5885 : The club also regards him as one of the brightest prospects in the squad.
+5886 : The club believes he still has plenty of room to develop.
+5890 : He is firmly part of the manager's plans as a key player.
+5891 : He is expected to feature regularly.
+5892 : He is expected to be part of the rotation.
+5893 : He will have to earn every minute on the pitch.
+5894 : At the start of the season, he would initially be expected to begin on the bench.
+5895 : He would mainly be called upon when other players are unavailable.
+5896 : The pecking order in his position is currently clear.
+5897 : An open battle for places is expected in his position.
+5898 : The club is not yet willing to promise him a fixed role.
+5899 : There is no clear direct rival for his position in the current squad.
+
+5900 : Contract & Role
+5901 : Squad status
+5902 : Playing prospects
+5903 : The manager currently sees him as $1.
+5904 : The manager regards him as one of the club's brightest prospects.
+5905 : The manager sees him as an emerging young player.
+5906 : The coaching staff have not yet settled on his role.
+5907 : The coaching staff have not yet settled on his playing time.
+5908 : His playing time will be decided from match to match.
+5909 : For now, he is likely to spend most of his time on the bench.
+5910 : He is most likely to feature when other players are unavailable.
+5911 : In the current squad hierarchy, he is viewed as $1.
+
+# Initial player-career entry
+5912 : Career kick-off
+5913 : Which role do you want to take in the football world?
+5914 : Single-player career
+5915 : Build your career and focus entirely on your own footballer.
+5916 : Player-manager - own player
+5917 : Take to the pitch yourself while also carrying responsibility for the team.
+5918 : Watch the football world
+5919 : Follow the season as an observer and take over a player or manager later.
+5920 : Just watch?
+5921 : You will begin without your own player or manager.
+5922 : The football world will still move on. You can take over someone later.
+5923 : Watch the football world
+5924 : Back to the choices
+5925 : Your path to the pros
+5926 : What will you bring to your first step into professional football?
+5927 : The long road
+5928 : An unknown youngster who must earn everything.
+5929 : Rough diamond
+5930 : A great talent who is still barely known in professional football.
+5931 : On the threshold
+5932 : Ready to make a name at smaller clubs.
+5933 : Ready for the first eleven
+5934 : A polished professional whom many coaches would trust with minutes.
+5935 : Close to a breakthrough
+5936 : A sought-after talent who has already made a name for himself.
+5937 : Choose your own
+5938 : Set ability, talent and reputation yourself.
+5939 : Your chances in this football world
+5940 : Starting-eleven chances
+5941 : $1 to $2 of $3 clubs
+5942 : $1 of $2 clubs
+5943 : That many clubs would see you in their starting eleven at the start of the season if you joined as a free agent.
+5944 : Not ready yet
+5945 : With this profile, a starting place would be hard to find at the beginning of your career.
+5946 : A demanding beginning
+5947 : Only a few clubs would give you an immediate chance in the starting eleven. Your choice of club would be crucial.
+5948 : Good chances at the right club
+5949 : With this profile, several clubs should let you compete for a starting place straight away.
+5950 : Ready for the first eleven
+5951 : Many clubs would trust you with a place in their starting eleven from day one.
+5952 : Start with this profile
+5953 : Your starting position
+5954 : Your chances cannot yet be judged reliably in this football world.
+5955 : Manage and play
+5956 : Lead your club and control the whole team during matches.
+5957 : Manage from the touchline
+5958 : Focus on selection and tactics while watching matches as the manager.
+5959 : Your career
+5960 : Chosen role
+5961 : Your prospects at $1
+5962 : Indispensable star
+5963 : First-team regular
+5964 : Rotation player
+5965 : Substitute
+5966 : Emergency option
+5967 : You would be a key player from day one.
+5968 : The manager would see you as a firm part of the starting eleven.
+5969 : You would be close to the starting eleven and a regular part of the rotation.
+5970 : You would first have to make your case in training and from the bench.
+5971 : You would mainly provide cover when the squad is stretched.
+5972 : You would also be regarded as a top prospect.
+5973 : The club would see you as an emerging young player.
+5974 : Playing prospects
+5975 : Regular appearances planned
+5976 : Frequent appearances planned
+5977 : Sporadic appearances planned
+5978 : Limited playing time expected
+5979 : Likely to start on the bench
+5980 : Mainly needed when others are unavailable
+5981 : With $1 league matches left, around $2 to $3 appearances are realistic, including $4 to $5 starts.
+5982 : Competition for your place
+5983 : Clear pecking order
+5984 : Open battle for places
+5985 : Role still open
+5986 : Your main competition for a place would be $1.
+5987 : There is no clear direct rival for your position in the current squad.
+5988 : This forecast assumes a fully available squad.
+5989 : Your exact role may still vary slightly. The forecast assumes a fully available squad.
+5990 : No reliable range of appearances can be given for the remaining league season.
+5991 : The coaching staff cannot yet assess your prospects at this club reliably.
+5992 : Your prospects at the selected club
+5993 : Squad role not yet settled
+5994 : Playing time not yet settled
+5995 : Around $1 to $2 of $3 clubs
+5996 : Around $1 of $2 clubs
+6000 : The options could not be saved. The changes apply only to this session.
+6001 : The options folder cannot be written to. The changes apply only to this session.
+6002 : There is not enough free disk space to save the options. The changes apply only to this session.
+6003 : The options file is being used by another program. Close it and try again.
+6004 : The user path for the options is unavailable or invalid. The changes apply only to this session.
+6005 : The user options could not be read. Replacement values were loaded; the file was left unchanged.
+6006 : First professional steps
+6007 : A promising youngster who can hope for early opportunities at smaller clubs.
+6008 : In the first-team picture
+6009 : A competitive professional who can work towards the first eleven through training and rotation.
+6010 : Audio output unavailable
+6011 : The selected or default audio output device could not be opened. It may be disconnected, disabled, busy, or incompatible with the current audio driver. Check the Windows sound settings. You can continue this session without sound.
+6012 : The audio system could not be initialized. Check the Windows sound settings and restart the game if you want sound. You can continue this session without sound.
+6013 : Technical details were written to $1.
+6014 : Technical details could not be written.
+6015 : Continue without sound
+6016 : Exit game
+6017 : Unusual fixture
+6018 : $1 is scheduled to play against itself. This is unusual and may produce unexpected table or statistics values. Technical details were written to Logs/GraphicalWarnings.log. Continue anyway?
+6019 : $1 is scheduled to play against itself. This is unusual and may produce unexpected table or statistics values. Technical details could not be written. Continue anyway?
+6020 : Action could not be completed
+6021 : The current action could not be completed safely. Technical details were written to Logs/GraphicalWarnings.log. You have been returned to the previous menu and can continue playing.
+6022 : The current action could not be completed safely. Technical details could not be written. You have been returned to the previous menu and can continue playing.
+6030 : Original replays
+6031 : Snapshot could not be saved.
+6032 : Keyboard & mouse
+6033 : Classic
+6034 : WASD + Space
+6035 : WASD + Left Click
+6036 : WASD + Shift/Ctrl
+6037 : Arrow Keys + Space
+6038 : Custom
+6039 : Up
+6040 : Left
+6041 : Down
+6042 : Right
+6043 : Action
+6044 : Change
+6045 : Applies to all keyboard players in this save.
+6046 : Press a key or mouse button for $1.
+6047 : Escape or Backspace cancels.
+6048 : $1 is already assigned to $2. Choose another input.
+6049 : $1 is reserved for a fixed match function. Choose another input.
+6050 : This input cannot be assigned.
+6051 : Keyboard mapping restored
+6052 : The saved keyboard mapping was invalid. The Classic mapping was restored; the rest of the save was loaded unchanged.
+6053 : Up Arrow
+6054 : Left Arrow
+6055 : Down Arrow
+6056 : Right Arrow
+6057 : Space
+6058 : L Shift
+6059 : R Shift
+6060 : L Ctrl
+6061 : R Ctrl
+6062 : Left Click
+6063 : Middle Click
+6064 : Right Click
+6065 : Mouse Button 4
+6066 : Mouse Button 5
+6070 : Also save replays as Discord videos
+6071 : The replay was saved, but the Discord video could not be created.
+6072 : The replay video setting could not be saved.
+6073 : The Discord video is being created.
+6080 : Career football world
+6081 : Choose the football world for this new career
+6082 : Play in the original Championship Soccer world or choose one of your own football worlds.
+6083 : Original Championship Soccer world
+6084 : Play with the clubs and players included with Championship Soccer.
+6085 : Play with the clubs and players from this football world.
+6086 : League selections
+6087 : Created by
+6088 : Version
+6089 : Location
+6090 : The football world used for this career could not be found. The career can still be continued.
+6091 : This football world has been updated since the career was saved. The career can be continued.
+6092 : Football world not found
+6093 : Football world updated
+6094 : Scores from other matches
+6095 : The other-match scores setting could not be saved.
+6100 : $1 could not be played because only $2 of at least $3 valid teams were available. The round was skipped; the career can continue.
+6110 : PageUp fast-forward
+6111 : Choose whether every tick is shown without pacing or several ticks run per displayed frame.
+6112 : Every tick, unpaced
+6113 : Multiple ticks per frame
+6114 : The PageUp fast-forward method could not be saved.
+8410 : Daily form influence
+8411 : 0% disables normal daily form effects. 100% keeps the original influence.
+8600 : An unused historical league storage row had already been processed by an older version and was removed. Some team values may already have changed and cannot be restored reliably.
+6130 : URL...
+6131 : Football world from URL
+6132 : Add a football world
+6133 : Enter the direct HTTPS address of a supported ZIP archive. It will be checked before use.
+6134 : HTTPS address
+6135 : Download
+6136 : Downloading football world...
+6137 : Checking downloaded football world...
+6138 : The ZIP contains $1 dataset(s). Review the details before using it.
+6139 : Use football world
+6140 : Cancel
+6141 : Try again
+6142 : Download failed
+6143 : Enter a valid direct HTTPS address.
+6144 : The football world could not be downloaded. Check the connection and address, then try again.
+6145 : The ZIP is larger than the supported 256 MiB limit.
+6146 : The download is not a supported football-world ZIP.
+6147 : The downloaded ZIP could not be stored on this device.
+6148 : URL downloads are not supported on this platform.
+6149 : $1 of $2 MiB
+6150 : $1 MiB downloaded
+6151 : The server rejected the download (HTTP $1).
+8412 : Match interrupted
+8413 : The match was interrupted after kickoff at $1. You can accept this score or replay the match.
+8414 : Accept score
+8415 : Replay match
+8416 : A technical problem occurred after the match was decided at $1. The result is safe and the career will continue. Details were written to the log. Support code: $2. Log: $3
+8417 : A technical problem occurred after the match was decided at $1. The result is safe and the career will continue. The diagnostic log could not be written. Support code: $2
+6120 : Save warning
+6121 : This save contains inconsistencies and has not been loaded yet. Continue loads the best-effort candidate; Back keeps the current career unchanged and returns to save selection. If you continue, save it under a new name.
+6122 : League assignments or table references were inconsistent and were repaired.
+6123 : Result links were incomplete. Unambiguous links were repaired; $1 past round(s) containing $2 fixture(s) were omitted.
+6124 : Some league data could not be repaired unambiguously. The candidate remains loadable; affected fixtures may be skipped.
+6125 : The text audit found $1 questionable string(s). The candidate remains loadable, but names and text should be reviewed.
+6126 : The stored keyboard mapping was invalid and the Classic mapping was restored.
+6127 : The save could not be decoded completely. It may be truncated or use an unsupported structure, so no bounded career candidate could be created. The program remains usable; choose another save.
+6128 : Duplicate cup draw entries were removed.
+8601 : League $1 contained $2 teams, but career fixtures support at most 24. Without repair, Continue would remain blocked.
+8602 : $1 was removed from the overfilled fixture list of $2 and returned to $3. $4 unplayable calendar marker(s) were removed.
+8603 : $1 was removed from the overfilled fixture list of $2 and retained outside the league system. $3 unplayable calendar marker(s) were removed.
+8604 : Probable data cause: $1 relegates $2 team(s), while $3 promotes $4. This makes league sizes drift each season.
+8605 : Promotion and relegation do not balance: $1 relegates $2 team(s), while $3 promotes $4. League sizes can drift and eventually block the calendar.
+8606 : In total, $1 overfilled league(s) and $2 excess team assignment(s) were repaired.
+8607 : League capacity repaired
+8608 : A league exceeded the 24-team career limit during the season change. The excess assignment was repaired before the new fixture list was created, so the career can continue.
+8609 : Movement counts repaired between $1 and $2: relegations changed from $3 to $4, promotions from $5 to $6. The yearly team flow is now balanced.
+8610 : Movement counts are inconsistent between $1 ($2 relegated) and $3 ($4 promoted). No unambiguous safe correction was possible.
+8611 : League movement data repaired
+8612 : Inconsistent promotion and relegation counts were found before the season change. A safe correction was applied before teams were moved, so league sizes remain stable.
+8613 : $1 contains $2 separate league blocks with overlapping division(s) $3. Their promotion and relegation links are kept separate so teams do not move into the wrong block.
+# Graphical startup diagnostics
+6190 : Error ID: $1
+6191 : Location: $1
+6192 : Diagnostic log: $1
+6193 : The diagnostic log could not be written.
+6194 : Share this log with support privately. It may contain personal file paths.
+6195 : Cause: $1
+9879 : Physics update rate: $1/s (actual: $2/s)
+6203 : Timing method
+6204 : Precise uses the game timer; compatible can use VSync.
+7940 : Audio output
+7941 : SDL
+7942 : XAudio2
+7943 : Disabled
+9891 : Compatible
+9892 : Precise
+6400 : Team Editor
+6401 : Included database
+6402 : Data for new careers
+6403 : Create a database
+6404 : Start with an empty database
+6405 : Duplicate an existing database
+6406 : Name
+6407 : All changes saved
+6408 : Unsaved changes
+6409 : Save
+6410 : Back
+6411 : Properties
+6412 : Export
+6413 : Import
+6414 : Move to...
+6415 : Search
+6416 : Squad
+6417 : Staff
+6418 : Overview
+6419 : Skills
+6420 : Kits
+6421 : More details
+6422 : Apply
+6425 : Delete
+6426 : Remove this entry?
+6427 : Discard changes and close this database?
+6428 : Add another value
+6429 : Clear value
+6430 : Team or player package folder
+6431 : New destination folder
+6432 : Select a previously exported package.
+6433 : Personal databases are available when starting a new career.
+6434 : Discard changes
+6435 : Undo
+6436 : Redo
+6437 : Check
+6443 : Unspecified values remain unset.
+6444 : Select / clear all
+6445 : Save a copy
+6449 : No issues found.
+6450 : Items to review:
+6451 : Package exported.
+6452 : File access failed. Your edits remain in the editor.
+6453 : The destination already exists or was changed elsewhere.
+6454 : Please check the value entered.
+6455 : This name already exists at the destination.
+6456 : The requested data was not found.
+6457 : Enter a valid name without a file path.
+6458 : These characters do not fit the existing file encoding.
+6459 : This selection is not available here.
+6460 : Additional detail
+6461 : Fewer than two clubs
+6462 : Missing club file
+6463 : Possible duplicate player
+6464 : Import note
+6470 : Database
+6471 : League file
+6472 : Country
+6473 : Division
+6474 : Cup / Tournament
+6475 : Round
+6476 : Club
+6477 : Player
+6478 : Staff member
+6479 : Scouting providers
+6480 : Provider
+6481 : Product
+6482 : Market
+6483 : Name lists
+6484 : Name list
+6485 : Nationalities
+6486 : Nationality
+6487 : Individual player files
+6488 : Player profile
+6489 : Settings
+6490 : All clubs and national teams
+6500 : Name
+6501 : Country
+6502 : Division
+6503 : Promoted clubs
+6504 : Relegated clubs
+6505 : Reputation
+6506 : Manager
+6507 : Vacant manager position
+6508 : Goal anthem
+6509 : Entrance music
+6510 : Weather station
+6511 : Appearance distribution
+6512 : Supplemental player pool
+6513 : Nationality
+6514 : Ability
+6515 : Potential
+6516 : Height (cm)
+6517 : Position
+6518 : Date of birth
+6519 : Year of birth
+6520 : Skin
+6521 : Hair colour
+6522 : speed
+6523 : Shot power
+6524 : shot control
+6525 : stamina
+6526 : dribbling
+6527 : jumping
+6528 : anticipation
+6529 : agility
+6530 : tackling
+6531 : heading
+6532 : ball control
+6533 : handling
+6534 : reflexes
+6535 : aggression
+6536 : Long shots
+6537 : Teamwork
+6538 : Attacking mentality
+6539 : Forward runs
+6540 : Vision
+6541 : Adaptability
+6542 : Loyalty
+6543 : Salary expectations
+6544 : Role
+6545 : Profile
+6546 : Level
+6547 : World
+6548 : Known region
+6549 : Known country
+6550 : Known league
+6551 : Identity
+6552 : Job title
+6553 : Department
+6554 : Appointed
+6555 : Contract until
+6556 : Shirt
+6557 : Stripes
+6558 : Sleeves
+6559 : Shorts
+6560 : Socks
+6561 : Draw
+6562 : International
+6563 : Nations
+6564 : Round number
+6565 : Round name
+6566 : Participant places
+6567 : Week
+6568 : Groups
+6569 : Year
+6570 : Year interval
+6571 : Match weeks
+6572 : Select entrants
+6573 : Exclusions
+6574 : Venue
+6575 : Ignore exclusion rules
+6576 : Name lists
+6577 : Name lists
+6578 : Starting year
+6579 : Display name
+6580 : Alternative spelling
+6581 : Country name to replace
+6582 : Entry
+6583 : Provider type
+6584 : Standing
+6585 : Shared coverage
+6586 : Annual price change
+6587 : Offer frequency
+6588 : Offer occasions
+6589 : Offer discount
+6590 : Offer duration (weeks)
+6591 : Rotating offers
+6592 : Small clubs: maximum reputation
+6593 : Small club discount
+6594 : Offer family
+6595 : Presentation
+6596 : Included information
+6597 : Scope
+6598 : Sales territories
+6599 : Selectable areas
+6600 : Age
+6601 : Professional status
+6602 : Market availability
+6603 : Divisions
+6604 : Coverage
+6605 : Information gain
+6606 : Freshness (days)
+6607 : Monthly price factor
+6608 : Billing
+6609 : Access (months)
+6610 : Charged months
+6611 : Availability
+6612 : Club reputation
+6613 : Type
+6614 : Provider's market nation
+6615 : Sales reach
+6616 : Products
+6617 : Home market price
+6618 : Regional price
+6619 : Foreign market price
+6620 : Worldwide price
+6621 : Visibility
+6622 : Selection priority
+6623 : Provider
+6624 : Product
+6625 : Market
+6626 : Version
+6627 : Provider's market region
+6628 : Provider's market nation
+6629 : Regions
+6630 : Countries
+6631 : Minimum clubs
+6632 : Maximum clubs
+6633 : Name lists
+6634 : Name lists
+6635 : Amount
+6636 : Source
+6637 : Condition
+6638 : Place
+6639 : Enabled
+6640 : National teams
+6641 : Nationality
+6642 : Date of birth
+6643 : Year of birth
+6644 : Goal anthem
+6645 : Entrance music
+6646 : Appearance distribution
+6647 : Promoted clubs
+6648 : Relegated clubs
+6649 : Week
+6650 : Match weeks
+6651 : handling
+6652 : Attacking mentality
+6653 : Adaptability
+6654 : Salary expectations
+6655 : Salary expectations
+6656 : Author
+6657 : Description
+6660 : Shared data
+6661 : Name lists and nationalities apply to new careers in every database.
+6662 : Edit an existing database
+6663 : Changes to the included database are saved as a personal copy.
+6664 : Browse
+6665 : Parent folder
+6666 : Countries and competitions
+6667 : No matching entries
+6670 : First name list
+6671 : Surname list
+6676 : Schedule and format
+6679 : Bundle discount
+6680 : Entrants
+6681 : Number of teams
+6682 : Qualification through
+6683 : Country, club or competition
+6684 : Starting position
+6685 : Only fill up to
+6686 : From country or league
+6687 : Specific club
+6688 : Host
+6689 : Cup winner
+6690 : Competition placing
+6692 : Minimum
+6693 : Maximum
+6694 : Top division
+6695 : Lower divisions
+6696 : Discovery
+6697 : Abilities
+6698 : Potential
+6700 : Light skin / blond hair
+6701 : Light skin / light brown hair
+6702 : Light skin / dark brown hair
+6703 : Dark skin
+6707 : The player profile is ambiguous.
+6708 : Review details
+6740 : Not specified
+6741 : Season start
+6742 : Winter break
+6743 : New customers
+6744 : Returning customers
+6745 : Rotating offer
+6746 : Established
+6747 : Specialist
+6748 : Network
+6749 : Cautious
+6750 : Set pieces
+6751 : From a group of countries
+6760 : Goalkeeping coach
+6761 : Fitness coach
+6762 : Technical coach
+6763 : Attacking coach
+6764 : Defensive coach
+6765 : Set-piece coach
+6766 : Performance coach
+6767 : Rehabilitation coach
+6768 : Video analyst
+6769 : Match analyst
+6770 : Head analyst
+6771 : Opposition analyst
+6772 : Individual coach
+6773 : Sports scientist
+6774 : Head of youth development
+6775 : Development coach
+6776 : Transition coach
+6777 : Youth coordinator
+6778 : Goalkeeping coordinator
+6779 : Academy staff
+6780 : Football school director
+6781 : Chief scout
+6782 : Head of scouting
+6783 : Regional scout
+6784 : Youth scout
+6785 : Head of youth scouting
+6786 : Goalkeeping scout
+6787 : Loan player manager
+6788 : Head physiotherapist
+6789 : Team doctor
+6790 : Sports psychologist
+6800 : Match panels
+6801 : Permanently off
+6802 : Always for managers
+6803 : On mouse movement
+6804 : Always
+6805 : Tactics and match timeline
+6806 : Formation
+6807 : Tactics
+6808 : LIVE
+6809 : 1st Half
+6810 : 2nd Half
+6811 : Extra time 1
+6812 : Extra time 2
+6813 : Penalties
+6814 : Managers + mouse
+6815 : Match panels are hidden.
+6816 : Always visible for managers without player control.
+6817 : Visible after mouse movement for at least 5 seconds.
+6818 : Match panels remain visible throughout the match.
+6819 : Always for managers without player control, otherwise on mouse movement (min. 5 s).
+6820 : At next stoppage
+6821 : Click again to cancel.
+6822 : Match paused. Resume with $1 or $2.
+6830 : Scripts
+6831 : New
+6832 : Load
+6833 : Save as
+6834 : Run
+6835 : Cancel
+6836 : Examples
+6837 : Help
+6838 : Script
+6839 : Output
+6840 : Changes
+6841 : Input file
+6842 : Automatic
+6843 : Script is running ...
+6844 : Cancelled. No changes applied.
+6845 : Script error. See output.
+6846 : Finished. Please review the changes.
+6847 : Changes applied. Undo is available in the database.
+6848 : No changes.
+6849 : Discard unsaved script text?
+6850 : Replace the existing script?
+6851 : Filename or full path
+6852 : Increase every player age by one
+6853 : Set every player age to 17
+6854 : Change a league's player nationality
+6855 : Import CSV players
+6856 : Replace vowels in names
+6857 : Line
+6858 : Column
+6859 : Before
+6860 : After
+6861 : Files
+6862 : Script saved.
+6863 : Choose an input file. Other files in its folder can also be read.
+6864 : Run creates a preview. Apply changes the database.
+6865 : Ctrl+A/C/X/V: select, copy, cut, paste.
+6866 : Ctrl+Z/Y: undo/redo. Ctrl+S: save. F5: run.
+6867 : Unset values are nil. Age refers to the database's start year.
+6868 : Assign properties directly. fields() lists all source fields.
+6869 : find() finds a unique name, ID or key.
+6870 : CSV example: name;birth date;nationality;position, without a header.
+6871 : Adapt examples to your database before running.
+6872 : Preview discarded because the script changed.
+6873 : Choose file
+6874 : Script text has changed.
+6875 : Create entries with add() and delete them with remove().
+6876 : moveTo() changes club or league and preserves the profile.
+6900 : Arrow opacity when aiming independently. 0% hides the arrow.
+6901 : Aiming mode
+6902 : Aim arrow visibility
+6903 : Player facing
+6904 : Independent aiming
+6905 : Hold an action: keep running and change direction to aim.
+6906 : Release to kick. A full arrow releases the ball automatically.
+6907 : High balls: also hold $1.
+6908 : Passes and shots follow the direction the player faces.
+6909 : After contact: use direction input or the right stick for curl.
+6910 : Aim arrow size
+6911 : Size of the aim arrow on the pitch. 100% is the original size.
+6920 : Weather effects
+6921 : Classic
+6922 : 2026
+6923 : Choose how rain, snow and other weather effects are shown.
+6924 : Country and names
+6925 : No country from the country list is assigned.
+6926 : Name lists are missing. Please choose a name source.
+6927 : The selected name list is missing or empty.
+6928 : Saved - please check the country and name lists.
+6929 : Choose name source
+6930 : Custom name lists
+6931 : Whole number from {min} to {max}.
+6932 : Usual range: {min} to {max}.
+6933 : Whole number of {min} or more.
+6934 : {min} to {max} %, with up to two decimal places.
+6935 : 0 % or {min} to {max} %, with up to two decimal places.
+6936 : Whole number, for example 1 or 20.
+6937 : 1 to 20 or a range such as 12-15. The levels ---, --, -, 0, +, ++ and +++ are also available.
+6938 : Date as year-month-day, for example 2004-07-15.
+6939 : Four-digit birth year. Players can be 12 to 80 years old at the start of the season.
+6940 : Four-digit year, for example 2026.
+6941 : Position and side, for example GK, D C, M L or F C. Multiple sides are possible: M LC.
+6942 : Choose a country or enter your own country name.
+6943 : Choose a name list, for example Data/Names/Germany_1st.txt.
+6944 : Colour name from the colour list, for example white or red.
+6945 : Choose one value from the list.
+6946 : You can choose several entries from the list.
+6947 : 0 to 8, or all for all available areas.
+6948 : Division level: 1 for the top division, 2 for the second division, and so on.
+6949 : Number of clubs. 0 means no clubs.
+6950 : Choose participants by origin, division and league position.
+6951 : Age from {min} to {max} years. A lower limit of 0 includes all younger ages.
+6952 : Name source
+6953 : Enter a valid first or last name.
+6954 : Move: {player} ({club})
+6955 : Move player
+6956 : Destination: {club}
+6957 : Moved to {club}.
+6958 : Tactics
+6959 : Preferred formation
+6960 : The coach considers these preferences in order, their tactical knowledge and the available squad.
+6961 : These preferences apply to computer-controlled clubs. The coach selects the starting eleven.
+6962 : Starting eleven and tactics
+6963 : At the start of a career, the starting eleven is chosen from player ratings and suitability for each position. Later, the coach also considers form and availability.
+6964 : Edit ability, position and skills in the player profile. Squad order does not set a fixed starting eleven.
+6965 : Under Staff, you can set the coach's preferred formations. Editor changes apply to new careers.
+6966 : Choose a destination club
+6967 : The player leaves the current squad.
+6968 : Origins
+6970 : Football world
+6971 : Observer mode
+6972 : Add player/manager
+6973 : Follow the football world
+6974 : Important transfers, trophies and awards will appear here as the season unfolds. You can add your own player or manager at any time.
+6975 : $1 signs for $2
+6976 : $1 moves from $2 to $3 for $4. One of this week's biggest transfers with a known fee.
+6977 : $1 signs for $2 for $3. One of this week's biggest transfers with a known fee.
+6978 : $1 wins $2
+6979 : $1 earns promotion from $2
+6980 : $1 is relegated from $2
+6981 : $1: Player of the Year in $2
+6982 : $1: top scorer in $2
+6983 : Season $1, week $2
+6984 : $1: Participants have been assigned to the correct round for this career. Your data files are unchanged. For a permanent correction, place the participant rules after the round in the Team Editor.
+6985 : $1: Some rules precede the first round and their intended assignment is unclear. Check the round and its participants in the Team Editor. You may continue, but the competition may be incomplete.
+6986 : $1 needs the winner of $2, which finishes after the planned draw. The career waits for the required result. You can review the draw week in the Team Editor. Your data files are unchanged.
+6987 : Meetings per opponent
+6988 : 1 to 4 league meetings per opponent each season. Unset means 2. Applies to new careers; classic versions always use 2.
+6989 : $1: The number of meetings per opponent is invalid. This career uses 2. Choose 1 to 4 in the Team Editor. Your data files are unchanged.
+6990 : $1 are champions
+6991 : $1 out of the title race
+6992 : $1 secure promotion
+6993 : $1 out of the promotion race
+6994 : $1 secure survival
+6995 : $1 are relegated
+6996 : $1: season review $3/$4
+6997 : $1 win $2
+6998 : $1 receive $5 in prize money
+6999 : $1 can no longer be caught at the top of $2. The championship is secured!
+7000 : The championship in $2 is now out of reach for $1, whatever happens in the remaining matches.
+7001 : $1 have secured promotion from $2. Even an unsuccessful run-in cannot take it away!
+7002 : $1 can no longer reach a promotion place in $2. The remaining matches offer a chance to finish strongly.
+7003 : $1 have secured safety in $2. Relegation is no longer possible!
+7004 : $1 can no longer avoid relegation from $2. The club will have to prepare for life in the division below.
+7005 : League run-in: $1 matches remain. There are $2 points on the board, with a maximum of $3 still achievable in total.
+7006 : $1 finish the $3/$4 league season in $2 in position $5, with $6 points and goals of $7:$8.
+7007 : The club celebrates winning the league title.
+7008 : Promotion is achieved. Next season brings the challenge of a higher division.
+7009 : The season ends in relegation. The club must regroup for the challenge ahead.
+7010 : The club has retained its place in the division.
+7011 : The supporters look back on the season with delight.
+7012 : The supporters are disappointed with how the season has unfolded.
+7013 : The season leaves the supporters with mixed feelings.
+7014 : $1 have won $2 in the $3/$4 season! The players and supporters can celebrate a trophy to remember.
+7015 : $1 receive $4 for finishing in position $5 in $2. The prize money strengthens the club's finances.
+7016 : $1 receive a participation payment of $4 for reaching $3 in $2. A welcome boost to the club's finances.
+7017 : Winning $2 brings $1 a further $4 in prize money. Sporting success is rewarded off the pitch too.
+7018 : The sponsors reward $1 with a bonus of $4 for winning $2.
+7019 : The sponsors pay $1 a bonus of $4 for the cup triumph in $2.
+7020 : The sponsors pay $1 a qualification bonus of $4 for reaching $2.
+7021 : The sponsors reward $1 with $4 for reaching $3 in $2.
+7022 : The prize payment records for this season are incomplete. The club's balance has been preserved. Further competition prizes will be paid again from next season.
+7023 : Prize payments
+7024 : You are saving a separate football world. The original football world is kept.
+7025 : ZIP
+7026 : File name, for example anthem.mp3; subfolders are also supported. Music folder: {folder}. MP3, WAV, OGG and FLAC are supported. Files that cannot be played are skipped.
+7027 : Default for home clubs without their own music. Cup music takes priority. The goal anthem plays only after home goals.
+7028 : Takes priority over the home club's music in this cup. The goal anthem plays only after home goals.
+7029 : Leave blank to use league music. Cup music takes priority. The goal anthem plays only after home goals.
+7030 : $1 turns to $3 as new boss
+7031 : New boss at $1: $3 replaces $2
+7032 : $2 bids farewell to the $1 dugout
+7033 : $1 sacks $2
+8772 : Yes
+8773 : No
+7950 : Play a tournament
+7951 : Choose your team
+7952 : Choose your footballer
+7953 : Players and controls
+7954 : Add a player
+7955 : Next match
+7956 : Tournament finished
+7957 : Preparing the tournament...
+7958 : Choose how you want to play
+7959 : Play one footballer
+7960 : Use the current squads
+7961 : Use the Quickstart squads
+7962 : Which squads should take part?
+7965 : Play and coach one footballer
+7966 : Create your own footballer
+7968 : Ready
+7969 : Continue without a player
+7970 : Leave tournament
+7974 : The tournament could not be prepared. Please go back and try again.
+7975 : All player slots are in use.
+7976 : No tournaments are available in these squads.
+7977 : Participating teams
+7980 : Leave this tournament? Save first to keep your progress.
+7971 : Play matchday
+7972 : Simulate matchday
+7981 : Simulate tournament to end
+7982 : Player profile
+7983 : Choose your ability and potential for this tournament.
+7984 : Playing time
+7985 : Selection by the coach
+7986 : Weaker players may stay on the bench. For immediate action, choose a starter or increase your ability.
+7987 : As player-coach, you can also select your team line-up.
+7988 : Starting eleven
+7989 : Outside the squad
+7990 : Team information
+7991 : Choose a role, then your team and controls.
+7992 : Watch the tournament
+7993 : Start this tournament without a player or coach?
+7994 : You can take over a team or footballer later under Players and controls.
+7995 : Add the people who will play. Choose Ready when everyone has a team and controls.
+7996 : Next match takes you to your team's next fixture. Check your squad and tactics before playing.
+7997 : Follow the tables and results, calculate the matches or add a player to take part.
+7998 : The tournament is complete. Open the tables and results to review the final standings.
+7999 : Next competition
+8000 : Preparing squads and fixtures...
+8001 : Drawing the teams...
+8002 : Calculating matches...
+8003 : Preparing the next competition...
+8004 : Your tournament is ready
+8005 : Current round
+8006 : Take over an existing footballer or create your own.
+8007 : Choose the line-up and tactics and control the whole team during matches.
+8008 : Click to pause after the current matchday.
+8009 : Not qualified
+8010 : Tables and results
+8011 : Calculate matchday
+8012 : Calculate individual matches
+8013 : Redraw
+8014 : Select database
+8015 : CPU managers always select human footballers
+8016 : Human footballers cannot be injured
+8017 : Current career
+9990 : Lineup and controls
+9991 : Computer-controlled
+9992 : $1 and $2
+9993 : + 1 individual player
+9994 : + $1 individual players
+9995 : Squad value (M)
+9996 : Team
+9997 : Player $1
+9998 : $1.$2
+9999 : This save contains features from another edition. Classic continues the supported career data. Additional systems are not included when saving again. Use a new save name to keep the original.
+8400 : Club abroad
+1129 : Group $1
+8541 : No players match the current search.
+
+7080 : About this free edition
+7081 : Continue
+7082 : Exit game
+7083 : Copyright (c) 2002-2026 Andreas Osswald.
+7084 : Championship Soccer Classic is free to download and play. No purchase or personal registration is required.
+7085 : Software may contain errors and may not work with every system. Keep backup copies of your saved games and custom data.
+7086 : Your statutory rights and the applicable legal liability rules remain unchanged. This notice does not exclude or limit them.
+7087 : Copyrights and trademarks remain with their respective rights holders.
+7088 : Third-party components retain their own licence terms; see ThirdPartyLicenses.
+7089 : For redistribution, see DistributionLicense.txt. Contact: https://www.adrastea.com
+7090 : English
+7091 : The language could not be saved. It remains active for this session.
+7092 : This language could not be loaded. The current language is kept.
+9150 : These data have not been checked yet.
+9151 : The check could not be completed. Please try again.
+9152 : Player listed more than once
+9153 : $1: Country corrected from $2 to $3 using the club's domestic league.

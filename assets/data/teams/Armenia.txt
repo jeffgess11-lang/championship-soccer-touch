@@ -1,0 +1,8 @@
+! name "Armenia"
+! 1 shirt red
+! 1 shorts blue
+! 1 socks orange
+! 2 shirt white
+! 3 shirt white
+! 3 socks orange
+! appear 1 9 9

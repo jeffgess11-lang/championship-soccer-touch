@@ -1,0 +1,8 @@
+! name "Turkey"
+! 1 shirt white
+! 1 stripes red
+! 2 shirt red
+! 2 stripes white
+! 3 shirt white
+! appear 1 5 8 0
+

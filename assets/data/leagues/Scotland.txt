@@ -1,0 +1,30 @@
+! Country "Scotland"
+! Names "data/names/Scotland_1st.txt" "data/names/Scotland_2nd.txt"
+* Scotland Cup
++ Country "Scotland"
++ reputation 17
++ round 1 "Round 1" 1-128 10
++ add 128 from "Scotland"
++ round 2 "Round 2" 1-64 13
++ round 3 "Round 3" 1-32 17
++ round 4 "Round 4" 1-16 23
++ round 5 "Quarter Final" 1-8 31
++ round 6 "Half Final" 1-4 39
++ round 7 "Final" 1-2 47
+: Premiership Scotland
++ division 1
++ promotions 0
++ relegations 0
++ reputation 14
+Glasgow Rangars
+Glasgow Celtoc
+Heart Of Midlothiun
+Dunfermline Athletoc
+Hiberniun
+Kilmarneck
+Dundea
+Partick Thistla
+Aberdean
+Livingsten
+Dundee Unitad
+Motherwall

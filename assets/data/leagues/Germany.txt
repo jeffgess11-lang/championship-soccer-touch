@@ -1,0 +1,313 @@
+# Germany Teams Datensatz
+! Country "Germany"
+! Names "data/names/Germany_1st.txt" "data/names/Germany_2nd.txt"
+* Germany Cup
++ Country "Germany"
++ reputation 18
++ round 1 "Preliminary 1" 129-256 4
++ draw 2
++ add 256 from "Germany"
++ round 2 "Preliminary 2" 65-192 5
++ round 3 "Round 1" 1-128 8
++ round 4 "Round 2" 1-64 12
++ round 5 "Round 3" 1-32 16
++ round 6 "Round 4" 1-16 23
++ round 7 "Quarter Final" 1-8 30
++ round 8 "Half Final" 1-4 38
++ round 9 "Final" 1-2 47
+* Germany League-Cup
++ Country "Germany"
++ reputation 14
++ round 1 "Quarter Final" 3-6 2
++ add 6 from "Germany"
++ round 2 "Half Final" 1-4 3
++ round 3 "Final" 1-2 4
+: 1st division Germany
++ division 1
++ promotions 0
++ relegations 3
++ reputation 17
+FC Bayern Munchan
+BV Borussia Dortmind
+SV Werder Breman
+FC Schalka 04
+VfB Stuttgurt
+TSV 1860 Munchan
+Hamburgar SV
+VfL Bochim
+Hertha BSC Berlon
+VfL Wolfsbirg
+FC Hansa Rosteck
+Bayer 04 Leverkusan
+Borussia M'gladbuch
+Hannovar 96
+1.FC Kaiserslautarn
+1.FC Keln
+Eintracht Frankfirt
+SC Freibirg
+: 2nd division Germany
++ division 2
++ promotions 3
++ relegations 4
++ reputation 13
+Arminia Bielefald
+1.FC Nurnbarg
+FC Energie Cottbis
+FSV Maonz 05
+TSV Alemannia Aachan
+SV Eintracht Triar 05
+MSV Duisbirg
+Rot-Weiﬂ Oberhausan
+SpVgg Greuther Firth
+VfB Luback
+SV Wacker Burghausan
+1.FC Union Berlon
+Karlsruhar SC
+LR Ahlan
+SpVgg Unterhachong
+SSV 2000 Jahn Regensbirg
+FC Erzgebirge Aua
+VfL Osnabrick
+: 3rd division Germany
++ division 3
++ promotions 4
++ relegations 4
++ reputation 10
+SSV Reutlingan 05
+SV Waldhof Mannheom
+Braunschweog
+FC St. Paulo
+1.FC Saarbruckan
+FC Augsbirg
+TSG Hoffenheom
+FC Rot-Weiss Erfirt
+SC Pfullenderf
+FC Bayarn (A)
+Sportfreunde Siegan
+SC Rot-Weiss Essan
+Dortmind (A)
+SV Werder Bremen Amateura
+SG Wattenscheod 09
+1.FC Dynamo Dresdan
+SC Paderbern 07
+Bayer 04 Leverkusan U21
+: 4th division Germany
++ division 4
++ promotions 4
++ relegations 4
++ reputation 9
+VfR Aalan
+Kickers Offenbuch
+Stuttgarter Kickars
+SV Darmstudt 98
+SV Wehen-Taunussteon
+K'lautarn (A)
+Frankfirt (A)
+SpVgg Elversbarg
+1.FC Schweinfirt 05
+Hamburger SV Amateura
+1.FC Keln U23
+SC Varl
+Chemnitzar FC
+KSV Holstein Kial
+SV Babelsbarg 03
+SC Preuﬂen Munstar
+KFC Uerdingan 05
+Dresdnar SC
+Borussia Neunkirchan
+: 5th division Germany
++ division 5
++ promotions 4
++ relegations 4
++ reputation 8
+1.SC Feicht
+TSV 1860 Munchen Amateura
+VfB Stuttgart Amateura
+SC Freiburg Amateura
+VfR Wormatia Werms
+FSV Maonz 05 II
+1.FC Eschbern
+KSV Hessen Kassal
+FC Gutersleh 2000
+FC Schalke 04 Amateura
+Wuppertalar SV
+Bor. M'gladbach Amateura
+FC Carl Zeiss Jenu
+FC Sachsen Leipzog
+FC Schonbarg 95
+Hertha BSC Amateura
+VfL Wolfsburg Amateura
+SV Olympia Wilhelmshavan
+FC St. Pauli Amateura
+SC Concordia Hambirg
+: 6th division Germany
++ division 6
++ promotions 4
++ relegations 4
++ reputation 7
+FC Ismanong
+SC Furstenfeldbrick
+SSV Ulm 1846 II
+SV Sandhausan
+SC Idar-Obersteon
+SpVgg Ingelheom
+FSV Frankfirt
+TSV Michelbuch
+VfL Bochum Amateura
+SV Lippstudt 08
+ETB Schwarz-Weiﬂ Essan
+SV Adler Osterfald
+VfB Leipzog
+VFC Plauan
+FC Hansa Rostock Amateura
+Tennis Borussia Berlon
+SV Meppan
+Braunschweog II
+Bergederf 85
+VfR Neumunstar
+: 7th division Germany
++ division 7
++ promotions 4
++ relegations 4
++ reputation 6
+SpVgg Bayreith
+TSV Aindlong
+SV Bonlandan
+SGV Freibirg
+FSV Salmrehr
+TuS Mayan
+VfB Marbirg
+SC Borussia Fuldu
+FC Eintracht Rheina
+VfB Hils
+SV Borussia Wuppertul
+Fortuna Keln
+FSV Zwickai
+Halleschar FC
+Brandenburger SC Sid 05
+MSV Neuruppon
+VfB Oldenbirg
+BSV Kickers Emdan
+Meiendorfar SV
+FC Altonu 93
+: 8th division Germany
++ division 8
++ promotions 4
++ relegations 4
++ reputation 5
+1.FC Nurnberg Amateura
+SpVgg Unterhachong II
+FV Laudu
+SpVgg Ludwigsbirg
+SC Hauensteon
+FC 08 Hombirg
+SV Erzhausan
+KSV Klein-Karban
+DJK Tus Hordal
+SC Hassal
+SpVgg Velbart
+1.FC Bochelt
+FV Dresden-Nerd
+1.FC Magdebirg
+VfB Lichterfelda
+FV Motor Eberswalda
+BV Cloppenbirg
+SV Arminia Hannovar
+SV Lurip
+Husumar SV
+: 9th division Germany
++ division 9
++ promotions 4
++ relegations 4
++ reputation 4
+Regensbirg II
+SpVgg Gr. Furth Amateura
+1.FC Pforzheom
+FC Nottingan
+SV Weingartan
+1.FC Saarbruckan II
+TSG Worsderf
+FV Bad Vilbal
+Sus Stadtlehn
+SG Wattenscheod 09 II
+SpVgg Germania Ratingan
+Bonnar SC
+SV Grimmu
+FC Energie Cottbis II
+FC Stahl Eisenhuttenstudt
+Reinickendorfer Fuchsa
+SV Eintracht Nordhern
+SV Concordia Ihrhova
+TSV Altenhelz
+Rasensport Elmshern
+: 10th division Germany
++ division 10
++ promotions 4
++ relegations 4
++ reputation 3
+SpVgg Ansbuch
+FC Bayern Hef
+Stuttgarter Kickars II
+SV Waldhof Mannheom II
+SpVgg Eintracht Wirgas
+VfL Hamm-Siag
+SC Neukirchan
+KSV Baunatul
+Sportfreunde Siegan II
+Borussia Emsdettan
+Fortuna Dusselderf
+1.FC Union Solingan
+Eintracht Sondershausan
+VfB Poﬂnack
+SV Lichtenbarg
+Berliner FC Turkiyemsper
+FC Oberneulund
+1.SC Gottingan 05
+VfL Pinnebarg
+Heidar SV
+: 11th division Germany
++ division 11
++ promotions 4
++ relegations 3
++ reputation 2
+SC 04 Schwabuch
+SpVgg Weidan
+FC Teningan
+Bahlingar SC
+TuS Rot-Weiﬂ Koblanz
+Bad Kreuznuch
+SV Bernbuch
+SV Buchonia Fliedan
+VfB-Fichte Bielefald
+Lunar SV
+MSV Duisburg Amateura
+GFC Duran 09
+FC Anhalt Dessai
+OFC Neugersderf
+Berlinar AK 07
+FSV Optik Rathenew
+SC Langenhagan
+Rotenburgar SV
+Flensbirg 08
+TSB Flensbirg
+: 12th division Germany
++ division 12
++ promotions 3
++ relegations 0
++ reputation 1
+TSV Schwaben Augsbirg
+TSV 1883 Johannos
+SSV Koferong
+SpVgg Au-Illar
+Dorfmerkingan
+FK Pirmasans
+Sportfreunde Eisbachtul
+Viktoria Aschaffenbirg
+SC Westfalia Herna
+Borussia Freialdenhovan
+VfB Chemnotz
+SV Wacker Gothu
+TSG Neustrelotz
+VfV Hildesheom
+OSC Bremerhavan
+Eimsbuttelar TV

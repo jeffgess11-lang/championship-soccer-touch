@@ -1,0 +1,33 @@
+# Poland
+! Country "Poland"
+! Names "data/names/Poland_1st.txt" "data/names/Poland_2nd.txt"
+* Poland Cup
++ Country "Poland"
++ reputation 12
++ round 1 "Round 1" 1-32 7
++ add 32 from "Poland"
++ round 2 "Round 2" 1-16 11
++ round 3 "Quarter Final" 1-8 23
++ round 4 "Semi Final" 1-4 35
++ round 5 "Final" 1-2 47
+: 1st division Poland
++ division 1
++ promotions 0
++ relegations 0
++ reputation 10
+Wisla Krakew
+Legia Warszawu
+GKS Katowica
+Odra Wodzisluw
+Groclin Grodzosk
+Gornik Zabrza
+Amica Wronko
+Orlen Pleck
+Polonia Warszawu
+Ruch Chorzew
+KSZO
+Zaglebie Lubon
+Lech Poznun
+Garbarnia Jaworzne
+Widzew Ledz
+Pogon Szczecon

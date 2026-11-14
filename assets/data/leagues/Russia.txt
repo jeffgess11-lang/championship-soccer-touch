@@ -1,0 +1,33 @@
+# Russia
+! Country "Russia"
+! Names "data/names/Russia_1st.txt" "data/names/Russia_2nd.txt"
+* Cup Russia
++ Country "Russia"
++ reputation 16
++ round 1 "Round 1" 1-32 7
++ add 32 from "Russia"
++ round 2 "Round 2" 1-16 11
++ round 3 "Quarter Finals" 1-8 23
++ round 4 "Semi Finals" 1-4 35
++ round 5 "Final" 1-2 47
+: 1st division Russia
++ division 1
++ promotions 0
++ relegations 0
++ reputation 14
+Lokomotiv Moscew
+CSKA Moscew
+Krylja Sovetov Samaru
+Spartak Moscew
+Saturn Ramenskoya
+Zenith St. Petersbirg
+Shinnik Yarosluvl
+Dinamo Moscew
+Uralan Elistu
+SC Rotor Volgogrud
+Torpedo Moscew
+FC Torpedo-ZiL Moscew
+Anzhi Makhachkalu
+Alania Vladikavkuz
+Rostselmush
+Sokol Saratev

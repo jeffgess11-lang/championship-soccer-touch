@@ -1,0 +1,33 @@
+# Greece
+! Country "Greece"
+! Names "data/names/Greece_1st.txt" "data/names/Greece_2nd.txt"
+* Greece Cup
++ Country "Greece"
++ reputation 16
++ round 1 "Round 1" 1-32 7
++ add 32 from "Greece"
++ round 2 "Round 2" 1-16 11
++ round 3 "Quarter Final" 1-8 23
++ round 4 "Semi Final" 1-4 35
++ round 5 "Final" 1-2 47
+: 1st division Greece
++ division 1
++ promotions 0
++ relegations 0
++ reputation 14
+Olympiakos Piraeis
+PAOK Saloniku
+Panathinaikes
+AEK Athans
+Aris Saloniku
+Proodeftiko
+Skoda Xantho
+Panionies
+Iraklis Saloniku
+Aigaleo Coty
+OFI Creta
+Kallitheu
+Ionikos Nikeus
+Pas Giannenu
+Akratites
+Panachaiko

@@ -1,0 +1,8 @@
+! name "Canada"
+! 1 shirt red
+! 1 shorts white
+! 1 socks white
+! 2 shirt white
+! 2 shorts red
+! 3 shirt white
+! appear 3 3 3 2

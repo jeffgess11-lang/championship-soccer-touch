@@ -1,0 +1,10 @@
+! name "Paraguay"
+! 1 shirt white
+! 1 stripes red
+! 1 shorts blue
+! 1 socks blue
+! 2 shirt white
+! 3 shirt red
+! 3 shorts blue
+! 3 socks blue
+! appear 0 1 4 0

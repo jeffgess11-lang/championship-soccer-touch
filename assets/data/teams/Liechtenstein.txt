@@ -1,0 +1,8 @@
+! name "Liechtenstein"
+! 1 shirt blue
+! 1 shorts red
+! 2 shirt white
+! 3 shirt red
+! 3 shorts blue
+! appear 1 1 1 0
+

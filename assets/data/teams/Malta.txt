@@ -1,0 +1,8 @@
+! name "Malta"
+! 1 shirt red
+! 1 shorts white
+! 2 shirt white
+! 2 shorts red
+! 3 shirt red
+! 3 socks white
+! appear 1 7 7

@@ -1,0 +1,6 @@
+! name "Cyprus"
+! 1 shirt blue
+! 1 shorts white
+! 2 shirt white
+! 2 shorts blue
+! appear 1 7 15

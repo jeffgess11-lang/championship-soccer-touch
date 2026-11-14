@@ -1,0 +1,4 @@
+! name "Honduras"
+! 1 shirt white
+! 2 shirt blue
+! appear 1 1 1 1

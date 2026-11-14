@@ -1,0 +1,13 @@
+! name "Zambia"
+! 1 shirt green
+! 1 shorts white
+! 1 socks red
+! 2 shirt orange
+! 2 shorts black
+! 2 socks black
+! 2 shirt green
+! 2 shorts orange
+! 2 sleeves orange
+! 2 socks orange
+! appear 0 0 0 1
+

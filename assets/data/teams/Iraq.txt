@@ -1,0 +1,5 @@
+! name "Iraq"
+! 1 shirt white
+! 1 shorts green
+! 2 shirt green
+! appear 0 0 1 0

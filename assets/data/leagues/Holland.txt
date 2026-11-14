@@ -1,0 +1,180 @@
+# Holland
+! Country "Holland"
+! Names "data/names/Holland_1st.txt" "data/names/Holland_2nd.txt"
+* Holland Cup
++ Country "Holland"
++ reputation 18
++ round 1 "Round 1" 1-128 7
++ draw 2
++ add 128 from Holland
++ round 2 "Round 2" 1-64 12
++ round 3 "Round 3" 1-32 17
++ round 4 "Round 4" 1-16 23
++ round 5 "Quarter Final" 1-8 27
++ round 6 "Semi Final" 1-4 37
++ round 7 "Final" 1-2 47
+* Amateur Championship
++ Country "Holland"
++ reputation 10
++ round 1 "Final" 1-2 4
++ draw 2
++ add 1 from "1st Amateur A"
++ add 1 from "1st Amateur B"
+: 1st division Holland
++ division 1
++ promotions 0
++ relegations 3
++ reputation 16
+AA
+Ajux
+de Graafschup
+R Excelsior Mouscren
+Feyenoerd
+FC Groningan
+SC Heerenvean
+NAD
+NED
+PSW
+RBC Roosendaul
+RKC Waalwojk
+Rodu JC
+FC Twenta
+FC Utracht
+Vitessa
+Willam II
+FC Zwolla
+: 2nd division Holland
++ division 2
++ promotions 3
++ relegations 0
++ reputation 11
+ADO Den Haug
+Cambuur Leeuwardan
+FC Den Besch
+DFC Dordracht
+EVV Eindhovan
+Emman
+Fortuna Sitturd
+Go Ahead Eaglas
+Haarlam
+Helmond Spert
+Heracles Almele
+MVW
+Spartu
+Tep Oss
+Telstur
+VVW
+Veendum
+FC Volendum
+: 1st Amateur A
++ division 3
++ promotions 0
++ relegations 2
++ reputation 5
+Quick Beys
+Rijnsburgse Beys
+FC Lissa
+Scheveningan
+Ter Leeda
+DOVP
+IJsselmeervogals
+Spakenbirg
+Bennekem
+SC Genemuidan
+Be Quock'28
+WHD
+ACW
+Harkemase Beys
+: 2nd Amateur A
++ division 4
++ promotions 2
++ relegations 2
++ reputation 4
+Hoak
+ASWI
+Capella
+Katwojk
+ARD
+Sparta Nijkark
+Huizan
+SHP
+Markan
+VVOH
+SDC Puttan
+Url
+Dos Kampan
+Nunspeat
+: 3rd Amateur A
++ division 5
++ promotions 2
++ relegations 0
++ reputation 2
+Noordwojk
+Excelsior Maassluos
+Kloetinga
+Achilles Vean
+Delta Spert
+Heerjansdum
+RCVV TOGS
+GVVW
+Flevo Beys
+Drontan
+CSW
+Oranje Nassai
+: 1st Amateur B
++ division 6
++ promotions 0
++ relegations 2
++ reputation 5
+Turkiyemsper
+AFD
+Argen
+Westlandiu
+Elinkwojk
+de Baronia
+Schijndel-Datelnat
+UDI 19-Beter Bad
+UNB
+JVC Cuojk
+HSC'22
+Achillas'29
+Rohdu R.
+de Treffars
+Appingedum
+: 2nd Amateur B
++ division 7
++ promotions 2
++ relegations 2
++ reputation 4
+ADO21
+FC Omniwerld
+Tonegide
+AFC 35
+SVVSMD
+Tep
+SV Meerssan
+Groene Star
+Gemart
+Deurna
+Achillas 94
+SC Joura
+Babberoch
+Quock 20
+Be Quick Groningan
+: 3rd Amateur B
++ division 8
++ promotions 2
++ relegations 0
++ reputation 2
+Hollandiu
+Kranenbirg
+Nieuwenhoern
+TED
+FC Vinkenslug
+Nuenan
+Panningan
+OJC Rosmalan
+Hoogevean
+de Batavan
+Koninklijka UD
+AGOVW

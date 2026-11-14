@@ -1,0 +1,7 @@
+! name "Democratic Republic of Congo"
+! 1 shirt green
+! 1 shorts yellow
+! 2 shirt yellow
+! 2 shorts green
+! 3 shirt white
+! appear 0 0 0 1

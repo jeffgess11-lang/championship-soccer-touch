@@ -1,0 +1,11 @@
+! name "Czech Republic"
+! 1 shirt red
+! 1 sleeves blue
+! 1 shorts white
+! 1 socks blue
+! 2 shirt white
+! 2 stripes red
+! 3 shirt white
+! 3 shorts red
+! 3 socks blue
+! appear 1 3 4 0

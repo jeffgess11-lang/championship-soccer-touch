@@ -1,0 +1,10 @@
+! name "Egypt"
+! 1 shirt red
+! 1 shorts white
+! 1 socks black
+! 2 shirt green
+! 2 shorts white
+! 3 shirt red
+! 3 shorts white
+! 3 socks green
+! appear 0 0 1 0

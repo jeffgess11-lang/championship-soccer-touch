@@ -1,0 +1,8 @@
+! name "Central African Republic"
+! 1 shirt blue
+! 1 shorts white
+! 2 shirt red
+! 3 shirt red
+! 3 shorts blue
+! 3 socks white
+! appear 0 0 0 1

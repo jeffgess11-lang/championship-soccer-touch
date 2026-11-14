@@ -1,0 +1,7 @@
+! name "Sweden"
+! 1 shirt yellow
+! 1 shorts blue
+! 2 shirt white
+! 3 shirt blue
+! 3 shorts yellow
+! appear 4 3 2 0

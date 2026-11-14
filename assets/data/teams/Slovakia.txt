@@ -1,0 +1,4 @@
+! name "Slovakia"
+! 1 shirt blue
+! 2 shirt white
+! appear 2 4 5 0

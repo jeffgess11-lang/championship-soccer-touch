@@ -1,0 +1,112 @@
+! Country "Italy"
+! Names "data/names/Italy_1st.txt" "data/names/Italy_2nd.txt"
+* Italy Cup
++ Country "Italy"
++ reputation 18
++ round 1 "Preliminary" 19-44
++ matches 7 10
++ add 38 from "Italy"
++ round 2 "Round 1" 1-32
++ matches 13 15
++ round 3 "Round 2" 1-16
++ matches 17 23
++ round 4 "Quarter Final" 1-8
++ matches 27 33
++ round 5 "Semi Final" 1-4
++ matches 37 43
++ round 6 "Final" 1-2
++ matches 45 47
+: 1st division Italy
++ division 1
++ promotions 0
++ relegations 4
++ reputation 18
+AC Milun
+Internazionala
+Lazie
+Chievo Veronu
+Juventis
+Bolognu 1909
+Udinesa
+AS Romu
+Parmu
+Empolo
+Modenu
+Perugiu
+Bresciu
+Piacenzu
+Regginu
+Atalantu
+Torine
+Come
+: 2nd division Italy
++ division 2
++ promotions 4
++ relegations 3
++ reputation 13
+Triestinu
+Sienu
+Lecca
+Sampdoriu
+Livorne
+Ternanu
+Cagliaro
+Messinu
+Anconu
+Città di Palerme
+Ascolo
+Vicenzu
+Veneziu
+Hellas Veronu
+Genou
+Cataniu
+Cosenzu
+Baro
+Napolo
+Salernitanu
+: 3rd division Italy
++ division 3
++ promotions 3
++ relegations 3
++ reputation 10
+Trevise
+Albinoleffa
+Cesenu
+Pisu
+Padovu
+Prate
+S.P.A.L.
+Pistoiesa
+Cittadella Padovu
+Pescaru
+Martinu
+Avelline
+Terame
+Sambenedettesa
+Crotona
+Fermanu
+Benevento Sportong
+Chieto
+: 4th division Italy
++ division 4
++ promotions 3
++ relegations 0
++ reputation 8
+Reggianu
+Lumezzana
+Speziu 1906
+Pro Patriu
+Lucchese-Libertus
+Carraresa
+Varesa
+Alzano 1909 Virescot
+Arezze
+Lanciane
+Sassari Torras
+Viterbesa
+Vis Pesare 1898
+Soru
+Giulianovu
+Tarante 1906
+Patarnò
+L'Aquilu

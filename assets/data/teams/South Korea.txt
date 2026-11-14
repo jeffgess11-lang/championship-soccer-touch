@@ -1,0 +1,4 @@
+! name "South Korea"
+! 1 shirt red
+! 2 shirt blue
+! appear 0 0 1 0

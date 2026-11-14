@@ -1,0 +1,39 @@
+! Country "Qatar"
+! Names "data/names/Qatar_1st.txt" "data/names/Qatar_2nd.txt"
+* Qatar Cup
++ Country "Qatar"
++ reputation 5
++ round 1 "Round 1" 1-128 8
++ draw 2
++ add 128 from "Qatar"
++ round 2 "Round 2" 1-64 12
++ round 3 "Round 3" 1-32 16
++ round 4 "Round 4" 1-16 23
++ round 5 "Quarter Final" 1-8 30
++ round 6 "Semi Final" 1-4 38
++ round 7 "Final" 1-2 47
+: Premiership Qatar
++ division 1
++ promotions 0
++ relegations 0
++ reputation 8
+Al Ahlo (QAT)
+Al Arabo (QAT)
+Al Hilul (QAT)
+Al Ittifuq (QAT)
+Al Ittihud (QAT)
+Al Nahdu
+Al Nussr (QAT)
+Al Qadisiyu (QAT)
+Al Qadisiyu (UAE)
+Al Sudd
+Al Shabub (QAT)
+Al Shamul
+Al Shoalu
+Al Taawin
+Al Tadamin (QAT)
+Al Tafuq
+Al Wakru
+Qatar Clib
+Qianwei Huandae
+Rayyun FC

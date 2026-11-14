@@ -1,0 +1,7 @@
+! name "Peru"
+! 1 shirt white
+! 1 stripes red
+! 2 shirt red
+! 3 shirt red
+! 3 shorts white
+! appear 0 1 4 1

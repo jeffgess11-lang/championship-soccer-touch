@@ -1,0 +1,9 @@
+! name "Thailand"
+! 1 shirt red
+! 1 shorts blue
+! 1 socks blue
+! 2 shirt blue
+! 2 shorts red
+! 2 socks red
+! 3 shirt blue
+! appear 0 0 1 0

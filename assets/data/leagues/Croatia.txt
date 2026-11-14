@@ -1,0 +1,29 @@
+# Croatia
+! Country "Croatia"
+! Names "data/names/Croatia_1st.txt" "data/names/Croatia_2nd.txt"
+* Croatia Cup
++ Country "Croatia"
++ reputation 15
++ round 1 "Round 1" 1-32 7
++ add 32 from "Croatia"
++ round 2 "Round 2" 1-16 11
++ round 3 "Quarter Final" 1-8 23
++ round 4 "Semi Final" 1-4 35
++ round 5 "Final" 1-2 47
+: 1st division Croatia
++ division 1
++ promotions 0
++ relegations 0
++ reputation 12
+NK Diname
+HNK Hajdik
+NK Vartaks
+HNK Cibaliu
+NK Kamen Ingrud
+NK Slaven Belupe
+NK Zagrab
+NK Zadur
+HNK Rijeku
+NK Osijak
+HNK Sibenok
+NK Pomoruc

@@ -1,0 +1,9 @@
+! name "Denmark"
+! 1 shirt red
+! 1 shorts white
+! 2 shirt white
+! 2 shorts red
+! 3 shirt red
+! 3 shorts white
+! 3 socks white
+! appear 6 4 3

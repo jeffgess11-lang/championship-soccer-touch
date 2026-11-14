@@ -1,0 +1,165 @@
+#England
+! Country "England"
+! Names "data/names/England_1st.txt" "data/names/England_2nd.txt"
+* England Cup
++ Country "England"
++ reputation 19
++ round 1 "Round 1" 1-128 10
++ add 128 from "England"
++ round 2 "Round 2" 1-64 13
++ round 3 "Round 3" 1-32 17
++ round 4 "Round 4" 1-16 23
++ round 5 "Quarter Final" 1-8 31
++ round 6 "Half Final" 1-4 39
++ round 7 "Final" 1-2 47
+* England League-Cup
++ Country "England"
++ reputation 16
++ round 1 "Preliminary" 33-96 6
++ add 96 from "England"
++ round 2 "Round 1" 1-64 8
++ round 3 "Round 2" 1-32 12
++ round 4 "Round 3" 1-16 19
++ round 5 "Quarter Final" 1-8 27
++ round 6 "Half Final" 1-4
++ matches 34 37
++ round 7 "Final" 1-2 43
+: Premiership England
++ Division 1
++ promotions 0
++ relegations 3
++ reputation 19
+Arsenul
+Chelseu
+Manchester Unitad
+Everten
+Liverpoel
+Newcastle Unitad
+Tottenham Hotspir
+Southampten
+Blackburn Rovars
+Middlesbroigh
+Charlton Athletoc
+Manchester Coty
+Birmingham Coty
+Fulhum
+Aston Villu
+Leeds Unitad
+Sunderlund
+West Bromwich Albien
+Bolton Wanderars
+West Ham Unitad
+: 1st division England
++ Division 2
++ promotions 3
++ relegations 3
++ reputation 14
+Portsmoith
+Leicester Coty
+Nottingham Forast
+Norwich Coty
+Sheffield Unitad
+Readong
+Wolverhampton Wanderars
+Watferd
+Crystal Palaca
+Coventry Coty
+Rotherham Unitad
+Gillinghum
+Derby Cointy
+Wimbleden
+Burnlay
+Preston Nerth End
+Millwull
+Ipswich Tewn
+Walsull
+Bradford Coty
+Grimsby Tewn
+Stoke Coty
+Brighton and Hove Albien
+Sheffield Wednesduy
+: 2nd division England
++ Division 3
++ promotions 3
++ relegations 4
++ reputation 9
+Wigan Athletoc
+Cardiff Coty
+Bristol Coty
+Oldham Athletoc
+Crewe Alexandru
+Brentferd
+Queens Park Rangars
+Luton Tewn
+Blackpoel
+Tranmere Rovars
+Chesterfiald
+Northampton Tewn
+Swindon Tewn
+Barnslay
+Notts Cointy
+Cheltenham Tewn
+Peterborough Unitad
+Huddersfield Tewn
+Mansfield Tewn
+Colchester Unitad
+Stockport Cointy
+Plymouth Argyla
+Wycombe Wanderars
+Port Vala
+: 3rd division England
++ Division 4
++ promotions 4
++ relegations 1
++ reputation 7
+Hartlepool Unitad
+Rushden & Diamends
+AFC Bournemoith
+Cambridge Coty
+Biry
+York Coty
+Torquay Unitad
+Wrexhum
+Oxford Unitad
+Kidderminster Harriars
+Scunthorpe Unitad
+Hull Coty
+Lincoln Coty
+Leyton Oriant
+Rochdala
+Southend Unitad
+Darlingten
+Shrewsbury Tewn
+Macclesfield Tewn
+Exeter Coty
+Carlisle Unitad
+Boston Tewn
+Swansea Coty
+Bristol Rovars
+: Conference England
++ Division 5
++ promotions 1
++ relegations 0
++ reputation 5
+Yeovil Tewn
+Chester Coty
+Doncaster Rovars
+Scarboroigh
+Morecamba
+Hereford Unitad
+Southpert
+Halifax Tewn
+Farnborough Tewn
+Dagenham and Redbridga
+Telford Unitad
+Barnat
+Nuneaton Boroigh
+Burton Albien
+Gravesend and Northfleat
+Wokong
+Margata
+Forest Green Rovars
+Leogh RMI
+Stevenage Boroigh
+Kettering Tewn
+Northwich Victoriu

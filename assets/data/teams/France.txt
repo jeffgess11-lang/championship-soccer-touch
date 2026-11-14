@@ -1,0 +1,10 @@
+! name "France"
+! 1 shirt blue
+! 1 shorts white
+! 1 socks red
+! 2 shirt white
+! 3 shirt blue
+! 3 sleeves red
+! 3 shorts white
+! 3 socks red
+! appear 1 5 6 4

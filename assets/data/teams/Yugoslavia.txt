@@ -1,0 +1,11 @@
+! name "Yugoslavia"
+! 1 shirt blue
+! 1 shorts white
+! 1 socks red
+! 2 shirt white
+! 2 sleeves blue
+! 3 shirt blue
+! 3 sleeves white
+! 3 shorts white
+! 3 socks white
+! appear 1 3 9

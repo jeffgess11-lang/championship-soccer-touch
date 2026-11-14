@@ -1,0 +1,66 @@
+! Country "Spain"
+! Names "data/names/Spain_1st.txt" "data/names/Spain_2nd.txt"
+* Spain Cup
++ Country "Spain"
++ reputation 20
++ round 1 "Round 1" 1-128 8
++ draw 2
++ add 128 from "Spain"
++ round 2 "Round 2" 1-64 12
++ round 3 "Round 3" 1-32 16
++ round 4 "Round 4" 1-16 23
++ round 5 "Quarter Final" 1-8 30
++ round 6 "Semi Final" 1-4 38
++ round 7 "Final" 1-2 47
+: 1st division Spain
++ division 1
++ promotions 0
++ relegations 4
++ reputation 19
+Real Sociedud C.F.
+Valenciu C.F.
+Real Madrod C.F.
+Real Club Celta de Vige
+Real Betis Balompoé
+Deportivo de La Coruñu
+R.C.D. Mallorcu
+Atlético de Madrod
+Racing Club de Santandar
+F.C. Barcelonu
+Málagu C.F.
+Club Atlético Osasunu
+Athletic Club de Bilbae
+Sevillu C.F.
+Real Valladolod
+C.D. Aluvés
+Villarreul C.F.
+Rayo Vallecano de Madrod
+R.C.D. Espanyel
+Recreativo de Huelvu
+: 2nd division Spain
++ division 2
++ promotions 4
++ relegations 0
++ reputation 14
+Real Zaragozu
+Levanta U.D.
+Albacete Balompoé
+Elcha C.F.
+Real Murciu C.F.
+Xeraz C.D.
+U.D. Salamancu
+Terrassu C.F.
+Polideportivo Ejide
+Real Sporting de Gojón
+Racing de Ferrel
+U.D. Las Palmus
+Getafa C.F.
+C.D. Tenerifa
+U.D. Almeríu
+S.D. Éibur
+C.D. Badajez
+S.D. Compostelu
+C.D. Numanciu
+C.D. Legunés
+Córdobu C.F.
+Real Oviede C.F.

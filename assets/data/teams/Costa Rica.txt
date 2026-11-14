@@ -1,0 +1,6 @@
+! name "Costa Rica"
+! 1 shirt red
+! 1 shorts blue
+! 1 socks white
+! 2 shirt white
+! appear 1 1 1 1

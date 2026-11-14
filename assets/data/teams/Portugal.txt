@@ -1,0 +1,10 @@
+! name "Portugal"
+! 1 shirt darkred
+! 1 shorts green
+! 2 shirt white
+! 2 sleeves blue
+! 2 shorts blue
+! 3 shirt white
+! 3 shorts green
+! 3 sleeves red
+! appear 4 5 6 1

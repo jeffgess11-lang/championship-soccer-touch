@@ -1,0 +1,9 @@
+! name "Colombia"
+! 1 shirt yellow
+! 1 shorts blue
+! 1 socks red
+! 2 shirt red
+! 2 shorts blue
+! 2 socks yellow
+! 3 shirt yellow
+! appear 1 2 4 4

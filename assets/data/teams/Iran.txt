@@ -1,0 +1,8 @@
+! name "Iran"
+! 1 shirt green
+! 1 shorts white
+! 1 socks red
+! 2 shirt red
+! 2 shorts white
+! 2 socks green
+! appear 0 0 1 0

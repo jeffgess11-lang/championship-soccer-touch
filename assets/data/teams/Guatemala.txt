@@ -1,0 +1,6 @@
+! name "Guatemala"
+! 1 shirt white
+! 2 shirt red
+! 2 shorts blue
+! 2 socks white
+! appear 1 4 5 4

@@ -1,0 +1,12 @@
+! name "Poland"
+! 1 shirt white
+! 1 sleeves red
+! 1 shorts red
+! 1 socks white
+! 2 shirt black
+! 2 sleeves white
+! 2 shorts black
+! 2 socks white
+! 3 shirt white
+! appear 2 3 3 0
+ 

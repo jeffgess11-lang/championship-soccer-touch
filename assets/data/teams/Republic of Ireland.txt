@@ -1,0 +1,8 @@
+! name "Republic of Ireland"
+! 1 shirt green
+! 1 shorts white
+! 2 shirt white
+! 2 shorts green
+! 3 shirt green
+! 3 socks white
+! appear 1 1 1 0

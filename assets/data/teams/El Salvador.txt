@@ -1,0 +1,8 @@
+! name "El Salvador"
+! 1 shirt blue
+! 2 shirt white
+! 3 shirt white
+! 3 shorts blue
+! 3 socks blue
+! appear 0 1 2 0
+

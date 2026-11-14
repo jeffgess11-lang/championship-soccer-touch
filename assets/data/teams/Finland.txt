@@ -1,0 +1,9 @@
+! name "Finland"
+! 1 shirt white
+! 1 shorts blue
+! 2 shirt blue
+! 2 shorts white
+! 3 shirt white
+! 3 shorts blue
+! 3 socks blue
+! appear 1 1 1 0

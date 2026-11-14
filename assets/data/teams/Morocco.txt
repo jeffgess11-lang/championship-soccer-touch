@@ -1,0 +1,7 @@
+! name "Morocco"
+! 1 shirt red
+! 1 shorts green
+! 2 shirt green
+! 2 shorts red
+! 3 shirt white
+! appear 0 0 0 1

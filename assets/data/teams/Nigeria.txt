@@ -1,0 +1,5 @@
+! name "Nigeria"
+! 1 shirt lightgreen
+! 2 shirt white
+! 3 shirt green
+! appear 0 0 0 1

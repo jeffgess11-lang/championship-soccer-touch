@@ -1,0 +1,8 @@
+! name "Uzbekistan"
+! 1 shirt blue
+! 1 shorts white
+! 2 shirt white
+! 2 shorts blue
+! 3 shirt yellow
+! 3 shorts blue
+! appear 0 0 1 0

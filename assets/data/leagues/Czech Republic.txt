@@ -1,0 +1,33 @@
+# Czech Republic
+! Country "Czech Republic"
+! Names "data/names/Czech Republic_1st.txt" "data/names/Czech Republic_2nd.txt"
+* Czech Republic Cup
++ Country "Czech Republic"
++ reputation 15
++ round 1 "Round 1" 1-32 7
++ add 32 from "Czech Republic"
++ round 2 "Round 2" 1-16 11
++ round 3 "Quarter Finals" 1-8 23
++ round 4 "Semi Finals" 1-4 35
++ round 5 "Final" 1-2 47
+: 1st division Czech Republic
++ division 1
++ promotions 0
++ relegations 0
++ reputation 13
+AC Sparta Pragua
+SK Slavia Pragua
+FK Teplica
+FC Slovan Liberac
+FC Banik Ostravu
+FK Viktoria Zizkev
+1.FC Synet
+FC Marila Pribrum
+SK Ceske Budejovica
+FC Stavo Artikel Brne
+FK Chmel Blsuny
+FK Jablonac 97
+FK Zlon
+SK Sigma Olomoic
+SK Hradec Kralova
+CU Bohemians Pragua

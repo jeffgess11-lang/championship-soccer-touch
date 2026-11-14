@@ -1,0 +1,14 @@
+! name "Bulgaria"
+! 1 shirt white
+! 1 sleeves green
+! 1 shorts green
+! 1 socks white
+! 2 shirt red
+! 2 sleeves green
+! 2 shorts white
+! 2 socks red
+! 3 shirt green
+! 3 sleeves white
+! 3 shorts red
+! 3 socks red
+! appear 0 3 9 0

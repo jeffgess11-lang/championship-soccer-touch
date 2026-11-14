@@ -1,0 +1,6 @@
+! name "Qatar"
+! 1 shirt white
+! 1 shorts purple
+! 2 shirt purple
+! 2 shorts white
+! appear 0 0 1 0

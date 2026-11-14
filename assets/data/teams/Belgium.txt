@@ -1,0 +1,7 @@
+! name "Belgium"
+! 1 shirt red
+! 2 shirt black
+! 3 shirt white
+! 3 shorts red
+! 3 socks black
+! appear 7 9 9 1

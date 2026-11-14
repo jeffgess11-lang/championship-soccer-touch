@@ -1,0 +1,6 @@
+! name "Wales"
+! 1 shirt red
+! 1 socks white
+! 2 shirt black
+! 3 shirt white
+! appear 1 1 1 0

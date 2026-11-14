@@ -1,0 +1,6 @@
+! name "Holland"
+! 1 shirt orange
+! 2 shirt blue
+! 3 shirt orange
+! 3 shorts white
+! appear 5 4 3 4

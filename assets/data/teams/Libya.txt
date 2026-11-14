@@ -1,0 +1,7 @@
+! name "Libya"
+! 1 shirt green
+! 2 shirt green
+! 2 shorts white
+! 3 shirt white
+! 3 shorts green
+! appear 0 0 0 1

@@ -1,0 +1,153 @@
+# Belgium
+! Country "Belgium"
+! Names "data/names/Belgium_1st.txt" "data/names/Belgium_2nd.txt"
+* Belgium Cup
++ Country "Belgium"
++ reputation 16
++ round 1 "Round 1" 1-128 7
++ draw 2
++ add 128 from Belgium
++ round 2 "Round 2" 1-64 12
++ round 3 "Round 3" 1-32 17
++ round 4 "Round 4" 1-16 23
++ round 5 "Quarter Final" 1-8 27
++ round 6 "Semi Final" 1-4 37
++ round 7 "Final" 1-2 47
+: 1st division Belgium
++ division 1
++ promotions 0
++ relegations 3
++ reputation 14
+KAA Gant
+RSC Anderlacht
+R Antwarp FC
+KSK Beveran
+R Charleroo SC
+Club Brugga KV
+GBB
+KRC Gank
+KV Mechelan
+RAA La Louviéroisa
+K Liersa SK
+Lokeran
+KFC Lommelsa SK
+RAEC Mens
+R Excelsior Mouscren
+K Sint-Truidensa VV
+R Standard de Lièga
+KVC Westerle
+: 2nd division Belgium
++ division 2
++ promotions 3
++ relegations 3
++ reputation 9
+KSV Cercle Brugga
+KMSK Deinza
+FC Denderleeiw E.H.
+KFC Dessel Spert
+KAS Eupan
+KFC Verbroedering Geal
+KSK Heusden-Zoldar
+KSV Ingelmunstar
+RFC Lièga
+K Patro Maasmechelan
+KSK Ronsa
+KSV Roeselara
+KFC Strombeak
+KVK Tienan
+KFC Vigor Wuitens Hamma
+R Excelsior SC Virten
+RCS Visétoos
+KSV Zulte Waregam
+: 3rd division Belgium
++ division 3
++ promotions 3
++ relegations 2
++ reputation 6
+KSC Eendracht Aulst
+K Berchem Spert
+KVK Kortrojk
+KV Oostenda
+R Cappellan FC
+RRC Gent - Zeehavan
+R Francs Boraons
+RRC Tournaisian
+K Stade Leuvan
+Olympic Charleroo
+Racing Mechelan
+R Sprimont Spert
+KSK Tongeran
+AFC Tubiza
+Unien SG
+: 4th division Belgium
++ division 4
++ promotions 2
++ relegations 2
++ reputation 4
+Torhoit 1992 KM
+Denderhoutam
+KVV Overpelt Fabriak
+FC Nieuwkerkan
+KV Red Star Waaslund
+KSK Maldegam
+Thor Kokerij Meldart
+KFC SV Wevelgem Coty
+K Bocholtar VV
+K Lyru TSV
+AC Olan
+R Spu FC
+Exc Veldwezalt
+RE Dison - Verviars
+RW Walhaon CG
+: 5h division Belgium
++ division 5
++ promotions 2
++ relegations 2
++ reputation 3
+SV Oudenaarda
+Standaard Wetteran
+KSV Zottegam
+KSV Bornam
+Racing Jet Wavra
+KFC Rhodienne-Verrewinkal
+K Schotan SK
+KVO Aarschet
+K Beringan FC
+KTH Diast
+Hoogstratan VV
+KFC Turnhoit
+KFC Zwarte Leeiw
+Seraong RUL
+Union Royale Namir
+: 6th division Belgium
++ division 6
++ promotions 2
++ relegations 2
++ reputation 2
+VV Eendracht Aaltar
+Tempo Overijsa
+Rapide Club Lebbeka
+KFC Heidebloem Lilla
+KSK Kermt-Hassalt
+ACS Couillat
+RES Couvin-Mariemboirg
+SC Lambusart-Fleuris
+FC Lorrain Arlen
+RRFC Montegnéa
+CS Nivelloos
+KFC Evergem Centar
+: 7th division Belgium
++ division 7
++ promotions 2
++ relegations 0
++ reputation 1
+SK Lovendegam
+KFC Meulebeka
+Sint-Eloois-Winkal Sp.
+KVC Willebroek-Meerhef
+FC Verbroedering Meerhoit
+RJ Rochefortoisa FC
+Witgoor Sport Dessal
+Berkenbos VV Heusdan
+K Diegem Spert
+SK Londerzeal

@@ -1,0 +1,7 @@
+! name "Saudi Arabia"
+! 1 shirt white
+! 1 shorts green
+! 2 shirt green
+! 2 shorts white
+! 3 shirt green
+! appear 0 0 1 0

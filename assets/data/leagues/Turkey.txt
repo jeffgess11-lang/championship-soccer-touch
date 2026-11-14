@@ -1,0 +1,35 @@
+# Turkey
+! Country "Turkey"
+! Names "data/names/Turkey_1st.txt" "data/names/Turkey_2nd.txt"
+* Turkey Cup
++ Country "Turkey"
++ reputation 19
++ round 1 "Round 1" 1-32 7
++ add 32 from "Turkey"
++ round 2 "Round 2" 1-16 11
++ round 3 "Quarter Finals" 1-8 23
++ round 4 "Semi Finals" 1-4 35
++ round 5 "Final" 1-2 47
+: Premiership Turkey
++ division 1
++ promotions 0
++ relegations 0
++ reputation 16
+Besiktus JK
+Galatasaruy SK
+Gençlerbirligo
+Fenerbahça SK
+Gaziantepsper
+Trabzonsper
+Malatyasper
+MKE Ankaraguci
+Diyarbakirsper
+Istanbulsper A.S.
+Adanasper A.S.
+Denizlisper
+Altuy
+Bursasper
+Samsunsper
+Elazigsper
+Goztepa A.S.
+Kocaelisper

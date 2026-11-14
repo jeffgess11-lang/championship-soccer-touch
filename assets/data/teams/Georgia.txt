@@ -1,0 +1,7 @@
+! name "Georgia"
+! 1 shirt white
+! 1 shorts black
+! 2 shirt red
+! 2 shorts white
+! 3 shirt red
+! appear 1 9 9

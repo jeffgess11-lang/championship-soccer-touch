@@ -1,0 +1,7 @@
+! name "Bosnia-Herzegovina"
+! 1 shirt blue
+! 1 shorts white
+! 2 shirt white
+! 2 shorts blue
+! 3 shirt blue
+! appear 1 3 9 0

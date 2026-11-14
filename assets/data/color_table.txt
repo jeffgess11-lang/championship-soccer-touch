@@ -1,0 +1,59 @@
+$000000 black schwarz
+$ffffff white weiss weiß
+$f50000 red rot
+$f00000 red2 rot2
+$dd0000 deepred deep-red darkred dark-red dunkelrot
+$ee8800 orange
+$1010fa blue blau
+$bbbbbb lightgrey lightgray light-gray light-grey hellgrau
+$999999 grey gray grau
+$555555 darkgray dark-gray dark-grey darkgrey deep-gray deep-grey dunkelgrau
+$05aa05 green grün gruen
+$07bb07 lightgreen light-green hellgrün hellgruen
+$007700 darkgreen dark-green deepgreen deep-green dunkelgrün dunkelgruen
+$fdfd02 yellow gelb
+$e8ed00 dark-yellow deep-yellow darkyellow deepyellow dunkelgelb
+$9999fc lightblue light-blue hellblau
+$cc5555 brown braun
+$000099 deepblue deep-blue dark-blue darkblue dunkelblau
+$cf91ec purple pink rosa
+$500050 violet violett
+$8cbcfa lightblue2 light-blue2 hellblau2
+$b1bec2 blue-grey blue-gray blaugrau
+$000012 black-blue schwarzblau
+$330000 brown braun
+$994444 light-brown hellbraun
+$000000 Black
+$FFFFFF White
+$808080 Grey1
+$707090 Grey2
+$E00000 Red1
+$B00000 Red2
+$901000 Red3
+$FF7000 Orange1
+$E08000 Orange2
+$FFF000 Yellow1
+$FFD000 Yellow2
+$008030 Green1
+$006030 Green2
+$002060 Blue1
+$002080 Blue2
+$0030A0 Blue3
+$0050D0 Blue4
+$60C0FF Blue5
+$800040 Purple1
+$600060 Purple2
+$800020 Purple3
+$804000 Brown1
+$A05000 Brown2
+$FF9595 Pink
+$D9B128 Gold
+$C6C6C6 Grey3
+$CE84CE Purple4
+$008888 Green3
+$80C848 Green4
+$FFAA00 Amber
+$10A8A8 Cyan1
+$056161 Cyan2
+$DF1E7A Red4
+$003E30 Green5

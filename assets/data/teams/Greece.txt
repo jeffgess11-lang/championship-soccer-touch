@@ -1,0 +1,9 @@
+! name "Greece"
+! 1 shirt blue
+! 1 shorts white
+! 2 shirt white
+! 2 shorts blue
+! 3 shirt blue
+! 3 shorts white
+! 3 socks white
+! appear 1 5 25 0

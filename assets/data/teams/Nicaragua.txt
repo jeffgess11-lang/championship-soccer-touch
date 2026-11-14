@@ -1,0 +1,4 @@
+! name "Nicaragua"
+! 1 shirt blue
+! 2 shirt white
+! appear 1 4 5 5

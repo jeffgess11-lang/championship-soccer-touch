@@ -1,0 +1,11 @@
+! name "Scotland"
+! 1 shirt dark-blue
+! 1 shorts white
+! 1 socks red
+! 2 shirt black
+! 2 sleeves yellow
+! 3 shirt blue
+! 3 stripes black
+! 3 shorts white
+! 3 socks red
+! appear 1 1 1 0

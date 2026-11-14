@@ -1,0 +1,9 @@
+! name "Botswana"
+! 1 shirt blue
+! 2 shirt white
+! 2 shorts blue
+! 2 socks blue
+! 3 shirt blue
+! 3 shorts black
+! 3 socks white
+! appear 0 0 0 1

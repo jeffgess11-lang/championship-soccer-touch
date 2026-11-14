@@ -1,0 +1,7 @@
+! name "Bahrain"
+! 1 shirt white
+! 1 shorts red
+! 2 shirt red
+! 2 shorts white
+! 3 shirt red
+! appear 0 0 1 0

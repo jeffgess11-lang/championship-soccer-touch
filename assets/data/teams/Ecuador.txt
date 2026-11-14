@@ -1,0 +1,11 @@
+! name "Ecuador"
+! 1 shirt yellow
+! 1 shorts blue
+! 1 socks red
+! 2 shirt red
+! 2 shorts blue
+! 2 socks yellow
+! 3 shirt yellow
+! 3 shorts red
+! 3 socks blue
+! appear 0 1 4 1

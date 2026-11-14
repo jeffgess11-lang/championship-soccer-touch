@@ -1,0 +1,9 @@
+! name "Chile"
+! 1 shirt red
+! 1 shorts blue
+! 1 socks white
+! 2 shirt white
+! 3 shirt red
+! 3 shorts blue
+! 3 socks white
+! appear 0 1 4 0

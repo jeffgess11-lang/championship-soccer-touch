@@ -1,0 +1,6 @@
+! name "Urugay"
+! 1 shirt lightblue
+! 1 shorts black
+! 2 shirt white
+! 3 shirt deepblue
+! appear 1 5 20 0

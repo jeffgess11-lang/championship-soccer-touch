@@ -1,0 +1,7 @@
+! name "Guinea"
+! 1 shirt red
+! 1 shorts yellow
+! 1 socks green
+! 2 shirt white
+! 3 shirt yellow
+! appear 0 0 0 1

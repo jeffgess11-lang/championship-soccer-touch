@@ -1,0 +1,9 @@
+! name "Hungary"
+! 1 shirt red
+! 1 shorts white
+! 1 socks green
+! 2 shirt white
+! 3 shirt white
+! 3 shorts green
+! 3 socks red
+! appear 1 5 7 0

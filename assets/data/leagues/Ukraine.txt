@@ -1,0 +1,33 @@
+# Ukraine
+! Country "Ukraine"
+! Names "data/names/Ukraine_1st.txt" "data/names/Ukraine_2nd.txt"
+* Ukraine Cup
++ Country "Ukraine"
++ reputation 14
++ round 1 "Round 1" 1-32 7
++ add 32 from "Ukraine"
++ round 2 "Round 2" 1-16 11
++ round 3 "Quarter Finals" 1-8 23
++ round 4 "Semi Finals" 1-4 35
++ round 5 "Final" 1-2 47
+: 1st division Ukraine
++ division 1
++ promotions 0
++ relegations 0
++ reputation 13
+Shakhtar Donatsk
+Dnipro Dnipropetrevsk
+Arsenal Kharkov
+Dinamo Kiav
+Metallurg Donatsk
+SC Volyn-1 Litsk
+Kryvbass Kryvyi Roh
+Tavria Simferopel
+Metallurg Mariupel
+Metallist Kharkov
+Karpaty Lvov
+Poligraftechniku
+Obolone PVO Kiav
+Vorskla Poltavu
+Metallurg Zaporizhzhyu
+Chernomorets Odessu

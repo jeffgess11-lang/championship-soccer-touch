@@ -1,0 +1,7 @@
+! name "Romania"
+! 1 shirt yellow
+! 2 shirt red
+! 2 sleeves yellow
+! 3 shirt yellow
+! 3 sleeves red
+! appear 2 3 3

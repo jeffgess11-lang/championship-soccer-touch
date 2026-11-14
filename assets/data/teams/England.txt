@@ -1,0 +1,13 @@
+! name "England"
+! 1 shirt white
+! 1 shorts blue
+! 1 socks white
+! 2 shirt red
+! 2 shorts white
+! 2 socks red
+! 3 shirt white
+! 3 shorts blue
+! 3 socks red
+! appear 4 6 6 3
+! metar EGLL
+

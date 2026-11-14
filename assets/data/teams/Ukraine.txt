@@ -1,0 +1,9 @@
+! name "Ukraine"
+! 1 shirt yellow
+! 1 sleeves blue
+! 2 shirt blue
+! 2 sleeves yellow
+! 3 shirt yellow
+! 3 shorts blue
+! 3 socks blue
+! appear 1 1 1 0

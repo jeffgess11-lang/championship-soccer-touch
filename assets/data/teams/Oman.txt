@@ -1,0 +1,7 @@
+! name "Oman"
+! 1 shirt deep-red
+! 1 shorts white
+! 2 shirt white
+! 2 shorts deep-red
+! 3 shirt deep-red
+! appear 0 0 1 0

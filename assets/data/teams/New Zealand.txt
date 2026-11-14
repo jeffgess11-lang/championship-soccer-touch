@@ -1,0 +1,7 @@
+! name "New Zealand"
+! 1 shirt white
+! 2 shirt black
+! 2 shorts white
+! 2 socks white
+! 3 shirt blue
+! appear 1 1 1 0

@@ -1,0 +1,7 @@
+! name "Slovenia"
+! 1 shirt white
+! 1 sleeves green
+! 1 shorts green
+! 2 shirt white
+! 3 shirt deep-green
+! appear 1 6 9 0

@@ -1,0 +1,11 @@
+! name "Andorra"
+! 1 shirt yellow
+! 1 shorts red
+! 1 socks red
+! 2 shirt red
+! 2 shorts blue
+! 2 socks yellow
+! 3 shirt blue
+! 3 shorts yellow
+! 3 socks red
+! appear 1 3 4 0

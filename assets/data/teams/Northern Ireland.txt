@@ -1,0 +1,8 @@
+! name "Northern Ireland"
+! 1 shirt green
+! 1 shorts white
+! 1 sleeves blue
+! 2 shirt white
+! 2 shorts green
+! 3 shirt green
+! appear 4 4 3 0

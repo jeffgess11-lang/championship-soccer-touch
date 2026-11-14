@@ -1,0 +1,9 @@
+! name "Norway"
+! 1 shirt red
+! 1 shorts white
+! 1 socks black
+! 2 shirt white
+! 3 shirt red
+! 3 shorts white
+! 3 shorts white
+! appear 4 4 3 0

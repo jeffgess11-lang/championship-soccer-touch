@@ -1,0 +1,28 @@
+! Country "Switzerland"
+! names "data/names/Switzerland_1st.txt" "data/names/Switzerland_2nd.txt"
+* Switzerland Cup
++ Country "Switzerland"
++ reputation 13
++ round 1 "Round 1" 1-32 7
++ add 32 from "Switzerland"
++ round 2 "Round 2" 1-16 11
++ round 3 "Quarter Final" 1-8 23
++ round 4 "Semi Final" 1-4 35
++ round 5 "Final" 1-2 47
+: Premiership Switzerland
++ division 1
++ promotions 0
++ relegations 0
++ reputation 12
+Grasshopper Club Zuroch
+FC Basal
+FC Thin
+FC Wol 1900
+FC Zuroch
+FC Neuchâtel Xamux
+BSC Young Boys Barn
+Servetta FC
+FC Lucerna
+FC St. Gallan
+SR Delément
+FC Aarai

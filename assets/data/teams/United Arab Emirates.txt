@@ -1,0 +1,7 @@
+! name "United Arab Emirates"
+! 1 shirt white
+! 2 shirt red
+! 2 shorts white
+! 2 socks white
+! 3 shirt red
+! appear 0 0 1 0

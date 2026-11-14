@@ -1,0 +1,7 @@
+! name "Switzerland"
+! 1 shirt red
+! 1 shorts white
+! 2 shirt white
+! 3 shirt red
+! 3 socks white
+! appear 1 1 1 0

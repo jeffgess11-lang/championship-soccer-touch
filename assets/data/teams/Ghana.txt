@@ -1,0 +1,9 @@
+! name "Ghana"
+! 1 shirt red
+! 1 shorts yellow
+! 1 socks green
+! 2 shirt white
+! 3 shirt red
+! 3 shorts green
+! 3 socks yellow
+! appear 0 0 0 1

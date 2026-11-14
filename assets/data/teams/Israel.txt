@@ -1,0 +1,7 @@
+! name "Israel"
+! 1 shirt lightblue
+! 1 shorts white
+! 2 shirt white
+! 2 shorts lightblue
+! 3 shirt blue
+! appear 1 9 9 0

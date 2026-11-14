@@ -1,0 +1,35 @@
+# Portugal
+! Country "Portugal"
+! Names "data/names/Portugal_1st.txt" "data/names/Portugal_2nd.txt"
+* Portugal Cup
++ Country "Portugal"
++ reputation 16
++ round 1 "Round 1" 1-32 7
++ add 32 from "Portugal"
++ round 2 "Round 2" 1-16 11
++ round 3 "Quarter Finals" 1-8 23
++ round 4 "Semi Finals" 1-4 35
++ round 5 "Final" 1-2 47
+: 1st division Portugal
++ division 1
++ promotions 0
++ relegations 0
++ reputation 15
+Futebol Clube do Porte
+Sport Lisboa e Benficu
+Vitoria Guimarãas
+Sportong
+Varzim Sport Cluba
+Gil Vicente Futebol Cluba
+C.F. Os Belenensas
+Leiriu
+Clube Sport Marítime
+Sporting Clube de Bragu
+Clube Desportivo Nacionul
+Setúbul
+P. Ferreiru
+Boavista Futebol Cluba
+Sport Clube Beira-Mur
+Moreirense Futebol Cluba
+Académicu
+Santa Claru

@@ -1,0 +1,8 @@
+! name "Latvia"
+! 1 shirt red
+! 1 shorts black
+! 2 shirt white
+! 2 shorts red
+! 3 shirt red
+! 3 shorts white
+! appear 1 9 9

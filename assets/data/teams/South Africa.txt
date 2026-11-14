@@ -1,0 +1,11 @@
+! name "South Africa"
+! 1 shirt white
+! 1 sleeves orange
+! 1 shorts green
+! 1 socks green
+! 2 shirt green
+! 2 shorts yellow
+! 3 shirt white
+! 3 shorts orange
+! 3 socks green
+! appear 1 3 20 30

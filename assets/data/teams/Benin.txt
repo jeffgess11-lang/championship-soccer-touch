@@ -1,0 +1,10 @@
+! name "Benin"
+! 1 shirt green
+! 2 shirt red
+! 2 shorts green
+! 2 socks green
+! 3 shirt white
+! 3 shorts red
+! 3 socks green
+! appear 0 0 0 1
+

@@ -1,0 +1,8 @@
+! name "Lithuania"
+! 1 shirt yellow
+! 1 shorts green
+! 2 shirt white
+! 3 shirt green
+! 3 shorts yellow
+! 3 socks yellow
+! appear 1 9 9

@@ -1,0 +1,10 @@
+! name "Fiji"
+! 1 shirt white
+! 1 shorts black
+! 2 shirt white
+! 2 stripes black
+! 2 shorts black
+! 2 socks white
+! 3 shirt black
+! 3 socks white
+! appear 0 0 0 1

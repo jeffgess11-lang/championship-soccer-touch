@@ -1,0 +1,9 @@
+! name "Algeria"
+! 1 shirt green
+! 1 shorts white
+! 1 socks red
+! 2 shirt white
+! 3 shirt red
+! 3 shorts green
+! 3 socks white
+! appear 0 1 5 0

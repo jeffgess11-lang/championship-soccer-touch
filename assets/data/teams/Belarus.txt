@@ -1,0 +1,6 @@
+! name "Belarus"
+! 1 shirt green
+! 2 shirt white
+! 2 shorts red
+! 3 shirt deep-green
+! appear 1 5 6 0

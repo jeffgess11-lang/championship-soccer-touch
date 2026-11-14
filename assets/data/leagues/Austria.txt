@@ -1,0 +1,41 @@
+! Country "Austria"
+! names "data/names/Austria_1st.txt" "data/names/Austria_2nd.txt"
+* Austria Cup
++ Country "Austria"
++ reputation 14
++ round 1 "Round 1" 1-32 7
++ add 32 from "Austria"
++ round 2 "Round 2" 1-16 11
++ round 3 "Quarter Final" 1-8 23
++ round 4 "Semi Final" 1-4 35
++ round 5 "Final" 1-2 47
+: Premiership Austria
++ division 1
++ promotions 0
++ relegations 2
++ reputation 12
+FK Austria Viennu
+SV Paschong
+SK Sturm Gruz
+SV Riad
+SK Rapid Viennu
+SV Salzbirg
+Grazar AK
+FC Austria Karntan
+SW Breganz
+VfB Admira Wacker Modlong
+: 1st division Austria
++ division 2
++ promotions 2
++ relegations 0
++ reputation 7
+SV Mattersbirg
+DSV Leoban
+FC Tirol Innsbrick
+BSV Bad Bleibarg
+Kapfenbergar SV
+SC Austria Lustenai
+SV Wergl
+Wienar SC
+LASK Lonz
+FC Lustenai

@@ -1,0 +1,9 @@
+! name "Bolivia"
+! 1 shirt green
+! 1 shorts white
+! 1 socks white
+! 2 shirt white
+! 3 shirt white
+! 3 shorts green
+! 3 socks green
+! appear 0 1 4 0

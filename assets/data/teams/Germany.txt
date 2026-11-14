@@ -1,0 +1,8 @@
+! name "Germany"
+! 1 shirt white
+! 1 shorts black
+! 2 shirt green
+! 2 shorts white
+! 3 shirt white
+! 3 shorts black
+! appear 1 1 1 0

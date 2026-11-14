@@ -1,0 +1,7 @@
+! name "Australia"
+! 1 shirt yellow
+! 1 shorts green
+! 1 socks white
+! 2 shirt green
+! 2 shorts white
+! appear 1 1 1 0

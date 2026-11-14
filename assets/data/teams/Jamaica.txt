@@ -1,0 +1,7 @@
+! name "Jamaica"
+! 1 shirt green
+! 1 shorts black
+! 1 socks yellow
+! 2 shirt yellow
+! 2 shorts black
+! appear 0 0 0 1
